@@ -99,7 +99,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zus_test"
+                "zus_01"
             ],
             "tmpls": [
                 {
@@ -131,6 +131,426 @@
             "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
             "tags": [
                 "zus_test"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Emerytury i renty są finansowane ze środków",
+                "FUS"
+            ],
+            "flags": 0,
+            "guid": "8ZY#RRVAO",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kto ustala zasady funkcjonowania systemu ubezpieczeń społecznych?",
+                "Parlament"
+            ],
+            "flags": 0,
+            "guid": "D0I=f^u(C%",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kto otrzymuje świadczenia chorobowe wypłacane przez ZUS?",
+                "Ubezpieczeni"
+            ],
+            "flags": 0,
+            "guid": "mA(Tx0Qp%x",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubezpieczenia społeczne nie obejmują",
+                "ubezpieczenia zdrowotnego"
+            ],
+            "flags": 0,
+            "guid": "OSwe0PV=[~",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubezpieczenia społeczne to:",
+                "ubezpieczenie emerytalne;&nbsp;<div><br><div>ubezpieczenia rentowe;</div><div><br></div><div>ubezpieczenie w razie choroby i macierzyństwa, zwane ubezpieczeniem chorobowym;&nbsp;</div><div><br></div><div>ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane ubezpieczeniem wypadkowym.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "lr5Oacv+-+",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zapewnią Ci ubezpieczenia społeczne",
+                "<font color=\"#15ff3c\">$$$</font> gdy nie będziesz mógł pracować"
+            ],
+            "flags": 0,
+            "guid": "mQazy<x$^[",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto wprowadził ubezpieczenia społeczne",
+                "Otto&nbsp;von&nbsp;Bismarck"
+            ],
+            "flags": 0,
+            "guid": "zAXV9nusPc",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym wieku powstały ubezpieczenia społeczne&nbsp;",
+                "pod koniec XIX wieku"
+            ],
+            "flags": 0,
+            "guid": "l]qt)cUptQ",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Otto&nbsp;von&nbsp;Bismarck.",
+                "kanclerz II Rzeszy"
+            ],
+            "flags": 0,
+            "guid": "MO%-oR<{dp",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile rodzajów świadczeń wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
+                "3"
+            ],
+            "flags": 0,
+            "guid": "rOC/VYCgEf",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie świadczenia wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
+                "na wypadek choroby 1883<div>od wypadków przy pracy 1884&nbsp;</div><div>w razie starości i inwalidztwa 1889</div>"
+            ],
+            "flags": 0,
+            "guid": "N[tN.PMCJb",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie na wypadek choroby",
+                "1883"
+            ],
+            "flags": 0,
+            "guid": "y7YasFurVG",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie od wypadków przy pracy",
+                "1884"
+            ],
+            "flags": 0,
+            "guid": "xeDRLXn|4n",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie w razie starości i inwalidztwa",
+                "1889"
+            ],
+            "flags": 0,
+            "guid": "jzypEb3o<c",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy została uchwalona ustawa o ubezpieczeniu społecznym",
+                "<div><span>28.03.1993</span><br></div><div><br></div><div><i>NF</i></div><div><i>Mysz</i></div><div><i>Tpa</i></div><div><i>Puma</i></div>"
+            ],
+            "flags": 0,
+            "guid": "NtvH+(KI9M",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak jest nazywana ustawa o ubezpieczeniu społecznym",
+                "ustawą scaleniową"
+            ],
+            "flags": 0,
+            "guid": "jwZF&$%:K7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dlaczego ustawa o ubezpieczeniu społecznym jest nazywana scaleniową",
+                "bo scaliła ubezpieczenia społeczne"
+            ],
+            "flags": 0,
+            "guid": "O&Q>+HJYf7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ustawa o ubezpieczeniu społecznym objęła wszystkie rodzaje ubezpieczeń społecznych&nbsp;",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "t90jLaQw.L",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie rodzaje ubezpieczeń społecznych objęła ustawa o ubezpieczeniu społecznym",
+                "<div><font color=\"#15ff3c\">n</font>a wypadek niezdolności do zarobkowania lub śmierci osoby ubezpieczonej;&nbsp;</div><div><font color=\"#15ff3c\">e</font>merytalne robotników i pracowników umysłowych.<br></div><div><font color=\"#15ff3c\">c</font>horobowe i macierzyńskie;<br></div><div><font color=\"#15ff3c\">w</font>skutek wypadku przy pracy lub chorób zawodowych, a także „wszelkich przyczyn”;<br></div><div><br></div><div><font color=\"#15ff3c\">necw</font>iedź</div>"
+            ],
+            "flags": 0,
+            "guid": "e&FIV-#zs2",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zrobiło&nbsp;Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z 24 października 1934 roku",
+                "połączyło 5 instytucji<div>w ZUS</div>"
+            ],
+            "flags": 0,
+            "guid": "G-6hc-s}Em",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gdzie jest siedziba ZUS",
+                "Warszawa"
+            ],
+            "flags": 0,
+            "guid": "j:AwsMl#18",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie instytucje zostały połączone&nbsp;Rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z 24 października 1934 roku",
+                "Izbę Ubezpieczeń Społecznych;<div>Zakład Ubezpieczenia na Wypadek Choroby;</div><div>Zakład Ubezpieczenia od Wypadków;</div><div>Zakład Ubezpieczeń Pracowników Umysłowych;</div><div>Zakład Ubezpieczenia Emerytalnego Robotników</div>"
+            ],
+            "flags": 0,
+            "guid": "hT^J2CxU9/",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ZUS rozwiń skrót",
+                "Zakład<div>Ubezpieczeń</div><div>Społecznych</div>"
+            ],
+            "flags": 0,
+            "guid": "LwI)Wz5QPO",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS to jedyny system ubezpieczeń&nbsp;",
+                "NIE<div><br></div><div>są inne dla rolników, mundurowców, prokuratorów i sędziów</div>"
+            ],
+            "flags": 0,
+            "guid": "k:hl[OuIdx",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "KRUS rozwiń skrót",
+                "Kasa<div>Rolniczego</div><div>Ubezpieczenia&nbsp;</div><div>Społecznego</div>"
+            ],
+            "flags": 0,
+            "guid": "qf{5ThIyN(",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest ubezpieczonych&nbsp;",
+                "ponad 16 mln"
+            ],
+            "flags": 0,
+            "guid": "gx1Sh1Jrxc",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest świadczeniobiorców",
+                "ponad 7,5 mln"
+            ],
+            "flags": 0,
+            "guid": "MEB}Mri-{$",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest płatników składek",
+                "ponad 2,5 mln"
+            ],
+            "flags": 0,
+            "guid": "d7lTE]P`uw",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kim są ubezpieczeni",
+                "<div>min.</div>pracownicy<div>zleceniobiorcy</div>"
+            ],
+            "flags": 0,
+            "guid": "KwF;Ist>!/",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kim są świadczeniobiorcy",
+                "<div>min.</div>emeryci<div>renciści</div><div>osoby które pobierają zasiłek</div>"
+            ],
+            "flags": 0,
+            "guid": "o(eUkB!o-6",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
             ]
         }
     ]
