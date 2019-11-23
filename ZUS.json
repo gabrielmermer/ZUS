@@ -72,7 +72,7 @@
         "latest.png",
         "tmpulh4ji_h.png"
     ],
-    "mid": 1506272214403,
+    "mid": "1543418439214",
     "name": "ZUS",
     "note_models": [
         {
@@ -101,7 +101,7 @@
             ],
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "name": "Basic",
+            "name": "Basic-4d50e",
             "req": [
                 [
                     0,
@@ -263,6 +263,58 @@
             ],
             "type": 0,
             "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
         }
     ],
     "notes": [
@@ -326,8 +378,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "rozaje ubezpieczeń społecznych",
-                "emerytalne<div><div>rentowe</div><div>chorobowe</div><div><span>wypadkowe</span><br></div></div>"
+                "Ubezpieczenia społeczne to:",
+                "ubezpieczenie emerytalne;&nbsp;<div><br><div>ubezpieczenia rentowe;</div><div><br></div><div>ubezpieczenie w razie choroby i macierzyństwa, zwane ubezpieczeniem chorobowym;&nbsp;</div><div><br></div><div>ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane ubezpieczeniem wypadkowym.</div></div>"
             ],
             "flags": 0,
             "guid": "lr5Oacv+-+",
@@ -411,7 +463,7 @@
             "data": "",
             "fields": [
                 "jakie świadczenia wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
-                "na wypadek choroby&nbsp;<div>od wypadków przy pracy</div><div>w razie starości i inwalidztwa</div>"
+                "na wypadek choroby 1883<div>od wypadków przy pracy 1884&nbsp;</div><div>w razie starości i inwalidztwa 1889</div>"
             ],
             "flags": 0,
             "guid": "N[tN.PMCJb",
@@ -1809,29 +1861,25 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
-                "tak"
+                "Testowy",
+                "commit"
             ],
             "flags": 0,
-            "guid": "z.&#GQJ@M`",
-            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
-            "tags": [
-                "zus_01"
-            ]
+            "guid": "et(Priwg)L",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
         },
         {
             "__type__": "Note",
             "data": "",
             "fields": [
-                "co obejmuje ubezpieczenie wypadkowe",
-                "wypadki przy pracy<div>choroby zawodowe</div>"
+                "banan",
+                "mango"
             ],
             "flags": 0,
-            "guid": "PiC?a40,[~",
-            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
-            "tags": [
-                "zus_01"
-            ]
+            "guid": "IasR__GNP-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
         }
     ]
 }
