@@ -326,8 +326,8 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ubezpieczenia społeczne to:",
-                "ubezpieczenie emerytalne;&nbsp;<div><br><div>ubezpieczenia rentowe;</div><div><br></div><div>ubezpieczenie w razie choroby i macierzyństwa, zwane ubezpieczeniem chorobowym;&nbsp;</div><div><br></div><div>ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane ubezpieczeniem wypadkowym.</div></div>"
+                "rozaje ubezpieczeń społecznych",
+                "emerytalne<div><div>rentowe</div><div>chorobowe</div><div><span>wypadkowe</span><br></div></div>"
             ],
             "flags": 0,
             "guid": "lr5Oacv+-+",
@@ -411,7 +411,7 @@
             "data": "",
             "fields": [
                 "jakie świadczenia wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
-                "na wypadek choroby 1883<div>od wypadków przy pracy 1884&nbsp;</div><div>w razie starości i inwalidztwa 1889</div>"
+                "na wypadek choroby&nbsp;<div>od wypadków przy pracy</div><div>w razie starości i inwalidztwa</div>"
             ],
             "flags": 0,
             "guid": "N[tN.PMCJb",
@@ -1800,6 +1800,34 @@
             ],
             "flags": 0,
             "guid": "zp],5L4l&+",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "z.&#GQJ@M`",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co obejmuje ubezpieczenie wypadkowe",
+                "wypadki przy pracy<div>choroby zawodowe</div>"
+            ],
+            "flags": 0,
+            "guid": "PiC?a40,[~",
             "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
             "tags": [
                 "zus_01"
