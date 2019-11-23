@@ -58,6 +58,40 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [
+        "5f545a2926224bbab62507643466f8a4-oa-1-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-1-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-2-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-2-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-3-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-3-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-4-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-4-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-5-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-5-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-6-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-6-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-7-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-7-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-8-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-8-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-9-A.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-9-Q.svg",
+        "5f545a2926224bbab62507643466f8a4-oa-O.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-1-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-1-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-2-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-2-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-3-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-3-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-4-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-4-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-5-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-5-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-6-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-6-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-7-A.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-7-Q.svg",
+        "5fac0be4b4534b3d83f6d7452596c387-oa-O.svg",
         "bf3e98cd5b394325ae2954ba3827bfa8-oa-1-A.svg",
         "bf3e98cd5b394325ae2954ba3827bfa8-oa-1-Q.svg",
         "bf3e98cd5b394325ae2954ba3827bfa8-oa-2-A.svg",
@@ -70,9 +104,14 @@
         "bf3e98cd5b394325ae2954ba3827bfa8-oa-5-Q.svg",
         "bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg",
         "latest.png",
-        "tmpulh4ji_h.png"
+        "paste-a78e1d2c0633116171bd134ba8915a8b1c1a077b.jpg",
+        "paste-d204ee9038cf17a2f64373f8efbc991c550f2b69.jpg",
+        "paste-fd5c645d4e44aaea92efd2bd379a8f6ef97eed11.jpg",
+        "tmpcye6brg2.png",
+        "tmpulh4ji_h.png",
+        "tmpw5f0_719.png"
     ],
-    "mid": "1543418439214",
+    "mid": "1574523383742",
     "name": "ZUS",
     "note_models": [
         {
@@ -276,7 +315,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "font": "Arial",
@@ -285,7 +324,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -301,7 +340,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "zus_03"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -314,6 +355,53 @@
                 }
             ],
             "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "css": ".card {\n font-family: arial;\n font-size: 30px;\n text-align: center;\n color: black;\n background-color: white;\n}.cloze {font-weight: bold;color: blue;}",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze",
+            "sortf": 0,
+            "tags": [
+                "zus_03"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Extra}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}\n\n\n"
+                }
+            ],
+            "type": 1,
             "vers": []
         }
     ],
@@ -1861,6 +1949,34 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "z.&#GQJ@M`",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co obejmuje ubezpieczenie wypadkowe",
+                "wypadki przy pracy<div>choroby zawodowe</div>"
+            ],
+            "flags": 0,
+            "guid": "PiC?a40,[~",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Testowy",
                 "commit"
             ],
@@ -1897,34 +2013,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
-                "tak"
-            ],
-            "flags": 0,
-            "guid": "z.&#GQJ@M`",
-            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
-            "tags": [
-                "zus_01"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "co obejmuje ubezpieczenie wypadkowe",
-                "wypadki przy pracy<div>choroby zawodowe</div>"
-            ],
-            "flags": 0,
-            "guid": "PiC?a40,[~",
-            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
-            "tags": [
-                "zus_01"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "marakuja",
                 "papaja"
             ],
@@ -1944,6 +2032,2484 @@
             "guid": "Pv</Q``}8}",
             "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy będzie ci przysługiwała emerytura z ubezpieczenia emerytalnego",
+                "gdy osiągniesz wiek emerytalne i niebędziesz już mógł / chciał pracować"
+            ],
+            "flags": 0,
+            "guid": "JXh-rH040z",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy możesz starać się o rentę z&nbsp;ubezpieczeń rentowych",
+                "gdy będziesz przez dłuższy czas niezdolny do pracy"
+            ],
+            "flags": 0,
+            "guid": "zMEm}~!X=",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto wydaje orzeczenie o potrzebie rehabilitacji leczniczej w ramach prewencji rentowej",
+                "lekarz orzecznik ZUS lub komisja lekarska ZUS"
+            ],
+            "flags": 0,
+            "guid": "cyIvJL)hjL",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy niepełnosprawność to niezdolność do pracy",
+                "nie<div>dwa różne pojęcia</div>"
+            ],
+            "flags": 0,
+            "guid": "et041}7})u",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak możesz otrzymać rentę z tytułu&nbsp;niezdolności do pracy",
+                "jeśli&nbsp; dostaniesz orzeczenie o&nbsp;niezdolności do pracy.<div><b>plus zależy to od trzech dodatkowych warunków</b></div>"
+            ],
+            "flags": 0,
+            "guid": "lzX@D>GdwG",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od jakich dodatkowych wanuków zależy czy dostaniesz rentę z tytułu niezdolności do pracy",
+                "stałeś się niezdolny do pracy w&nbsp;trakcie okresu wymienionego w przepisach<div>udowodnisz okresy składkowe i nieskładkowe&nbsp;</div><div>nie masz prawa do emerytury z FUS i nie spełniasz warunków, by ją uzyskać.</div>"
+            ],
+            "flags": 0,
+            "guid": "wS#38JRfsz",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od czego zależy liczba okresów składowych i nieskładowych",
+                "od wieku, w którym stałeś się niezdolny do pracy"
+            ],
+            "flags": 0,
+            "guid": "yi~cE<UjPB",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy osoby niepełnosprawne mogą być pracownikami",
+                "tak<div>lel</div>"
+            ],
+            "flags": 0,
+            "guid": "O_-oHwE(7V",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jaki jest maksymalny czas renty",
+                "5 lat<div><b>chyba że nie ma rokowań na odzyskanie sprawnosci przed upływem 5 lat</b></div>"
+            ],
+            "flags": 0,
+            "guid": "gy%.W^C]iC",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy można się ubiegać o odnowienie renty po wygaśnięciu&nbsp;",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "v`f/1JN]h1",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od czego zależy długość renty",
+                "od orzeczenia o niezdolności do pracy"
+            ],
+            "flags": 0,
+            "guid": "J.6Pcurj]2",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy możesz otrzymać rentę rodzinną",
+                "kiedy jesteś <b>członkiem rodziny </b>osoby zmarłej która w chwili śmierci spełniała wymagania"
+            ],
+            "flags": 0,
+            "guid": "wOX9Nix_oD",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie wymagania musi spełniać osoba aby była po niej renta rodzinna",
+                "prawo do emerytury lub renty z tytułu niezdolności do pracy<div><br><div>mogłaby otrzymać emeryturę lub rentę</div><div><br></div><div>pobierała zasiłek zasiłek przedemerytalny,&nbsp;<span>świadczenie przedemerytalne lub nauczycielskie świadczenie kompensacyjne.</span></div></div>"
+            ],
+            "flags": 0,
+            "guid": "tp<`R+k:#G",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie warunki trzeba spełnić aby <b>otrzymać </b>rentę rodzinną",
+                "dzieckiem własnym zmarłego, dzieckiem drugiego małżonka albo dzieckiem przysposobionym;&nbsp;<div><br></div><div>wnukiem, rodzeństwem albo innym dzieckiem zmarłego przyjętym na wychowanie i&nbsp;utrzymanie przed osiągnięciem pełnoletności (z wyłączeniem dzieci przyjętych na wychowanie i utrzymanie w&nbsp;ramach rodziny zastępczej lub rodzinnego domu dziecka);</div><div><br></div><div>małżonkiem zmarłego (wdową, wdowcem);</div><div>rodzicem zmarłego (również ojczymem, macochą lub osobą przysposabiającą).</div>"
+            ],
+            "flags": 0,
+            "guid": "cyT%QoDQ_T",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy otrzymasz zasiłek pogrzebowy",
+                "jeśli pokryjesz koszty pogrzebu w <b>pewnych sytuacjach</b>"
+            ],
+            "flags": 0,
+            "guid": "K&;S0|)l}Y",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w jakich <b>sytuacjach</b>&nbsp;dostaniesz zasiłek pogrzebowy przy pokryciu kosztów pogrzebu",
+                "osoby ubezpieczonej, np.&nbsp;pracownika;<div>osoby, która pobierała wypłacane przez ZUS świadczenie, np.&nbsp;emeryturę</div><div>członka rodziny osoby ubezpieczonej albo emeryta lub rencisty.</div>"
+            ],
+            "flags": 0,
+            "guid": "b4PZT(@dy`",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto jest członkiem rodziny osoby ubezpieczonej",
+                "małżonek&nbsp;<div>rodzice, step rodzice</div><div>dzieci&nbsp;</div><div>inne dzieci przyjęte na wychowanie i utrzymanie przed osiągnięciem przez nie pełnoletności</div><div>rodzeństwo</div><div>dziadkowie</div><div>wnuki</div><div>osoby, nad którymi sąd ustanowił opiekę prawną</div>"
+            ],
+            "flags": 0,
+            "guid": "y6/Qxgb9uk",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "komu dodatkowo przysługuje zasiłek pogrzebowy",
+                "pracodawcy<div>domowi pomocy społecznej</div><div>gminie</div><div>powiatowi</div><div>osobie prawnej kościoła lub związku wyznaniowego</div>"
+            ],
+            "flags": 0,
+            "guid": "A}00hS+SLJ",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi zasiłek pogrzebowy dla członka rodziny",
+                "4 tys. zł <b>niezależnie od kosztów</b>"
+            ],
+            "flags": 0,
+            "guid": "cfq/aNWfP}",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi zasiłek pogrzebowy <b>nie</b> członka rodziny",
+                "zasiłek w wysokości kosztów, ale nie więcej niż 4 tys. zł"
+            ],
+            "flags": 0,
+            "guid": "JShB2`?Ecl",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto dostaje zasiłek pogrzebowy jak kilka osób organizuje pogrzeb",
+                "zasiłek jest dzielony między te osoby proporcjonalnie do poniesionych kosztów"
+            ],
+            "flags": 0,
+            "guid": "rHm-i;{glU",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy prawo do zasiłku pogrzebowego wygasa",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "jY<{%u&7-=",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "po jakim czasie wygasa prawo do zasiłku pogrzebowego",
+                "po 12 mies od dnia śmierci&nbsp;<div><b>chyba że złwoki odnaleziono lub zidentyfikowano po terminie, lub z innych przyczyn całkowicie niezależnych od osoby uprawionej wtedy 12 mies od pogrzebu</b></div>"
+            ],
+            "flags": 0,
+            "guid": "KeqKE9u;&q",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umowa międzypokoleniowa to przykład",
+                "solidaryzmu"
+            ],
+            "flags": 0,
+            "guid": "vYtZGv8taz",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Umowa międzypokoleniowa o co chodzi",
+                "Składki, które teraz wpłacają osoby aktywne zawodowo, ZUS przekazuje na wypłatę świadczeń obecnym emerytom."
+            ],
+            "flags": 0,
+            "guid": "LQlsyMUc~M",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy doszło do reformy modelu systemu emerytalnego",
+                "1999"
+            ],
+            "flags": 0,
+            "guid": "rUT3=4.LYS",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto doprowadził do reformy modelu systemu emerytalnego",
+                "rząd&nbsp;Jerzego Buzka"
+            ],
+            "flags": 0,
+            "guid": "J{{ZN<@$AF",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "na jakiej podstawie doszło do reformy modelu systemu emerytalnego",
+                "podstawie ustaw uchwalonych w&nbsp;1998 roku."
+            ],
+            "flags": 0,
+            "guid": "hyrcF.ac1u",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dlaczego doszło do reformy modelu systemu emerytalnego",
+                "bo społeczeństwo się starzeje"
+            ],
+            "flags": 0,
+            "guid": "K.XBOi>z3d",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cecha systemeu zdefiniowanego świadczenia",
+                "brak powiązania między wysokością płaconej składki na ubezpieczenia społeczne a wysokością przyszłej emerytury"
+            ],
+            "flags": 0,
+            "guid": "l`oM;q5mF:",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cecha modelu zdefiniowanej składki",
+                "wysokość emerytury zależy od&nbsp;sumy wpłaconych składek"
+            ],
+            "flags": 0,
+            "guid": "s?nb3W-Ej<",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zrobiła reforma modelu systemu emerytalnego",
+                "zmieniła model zdefiniowane świadczenia &gt;&gt;&gt; model zdefiniowanej składki"
+            ],
+            "flags": 0,
+            "guid": "Rd)PpKKPiz",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "do kiedy funkcjonował w polsce model zdefiniowanego świadczenia&nbsp;",
+                "do końca 1998"
+            ],
+            "flags": 0,
+            "guid": "Kypkvc;p:U",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy został wprowadzony model zdefiniowanej składki",
+                "1.01.1999"
+            ],
+            "flags": 0,
+            "guid": "bfvCewvG2y",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od czego zależy wysokość emerytury",
+                "od sumy wpłaconych składek<div><br><div>długosci sredniego dalszego trwania zycia <i>ustalonej w momencie przejscia na emeryture</i><br><div><b>i</b></div><div>sytuacji na rynku pracy</div><div>efektywności inwestowania środków OFE</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "w,u+(4b<Cy",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "OFE rozwiń skrót",
+                "Otwarte<div>Fundusze</div><div>Emerytalne</div>"
+            ],
+            "flags": 0,
+            "guid": "y<PyMC1B5|",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czego wymaga system zdefiniowanej składki",
+                "każdy ubezpieczony ma dbać o to aby wpływały na jego konto ZUS składki emerytalne"
+            ],
+            "flags": 0,
+            "guid": "b82zBdk8DQ",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jaki jest wzór na emeryturę",
+                "<img src=\"paste-d204ee9038cf17a2f64373f8efbc991c550f2b69.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "MyBK(%eS@m",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "indywidualne konto każdej ubezpieczonej osoby, które prowadzi ZUS.",
+                "konto ubezpieczonego"
+            ],
+            "flags": 0,
+            "guid": "sn/3$xj[9h",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "środki zgromadzone na emeryturę przed 1999 rokiem.",
+                "kapitał początkowy"
+            ],
+            "flags": 0,
+            "guid": "gh!rioo/L*",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "którym filarem ubezpieczenia emerytalnego jest OFE",
+                "II"
+            ],
+            "flags": 0,
+            "guid": "vDRofMMvKC",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "prowadzi je ZUS w ramach II filaru ubezpieczenia emerytalnego.",
+                "Subkonto"
+            ],
+            "flags": 0,
+            "guid": "M%W:[=d3Nl",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Waloryzacja}} to ochrona wartości składek na ubezpieczenie emerytalne, kapitału początkowego\noraz środków przekazanych przez OFE. Kwoty, zapisane na koncie i subkoncie, ZUS mnoży co roku\nprzez odpowiedni wskaźnik i zwiększa w ten sposób ich wartość.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g9yzbVs4fn",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Tablice średniego dalszego trwania życia}} – określają przeciętne dalsze trwanie życia (wyrażone w&nbsp;miesiącach) osoby na emeryturze, dla każdego rocznika. Ogłasza je w formie komunikatu prezes Głównego Urzędu Statystycznego",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Lf`f7hT*|G",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy dłuższa praca = dłuższa emerytura",
+                "TAK<div><img src=\"paste-fd5c645d4e44aaea92efd2bd379a8f6ef97eed11.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "C.cWr7v[H8",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy przyznanie emerytury zależy od osiągnięcia określonego stażu pracy?",
+                "nie"
+            ],
+            "flags": 0,
+            "guid": "B6GDm9K$$I",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny kobiet",
+                "60"
+            ],
+            "flags": 0,
+            "guid": "On?inYu)_5",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny męszczyzn",
+                "65 lat"
+            ],
+            "flags": 0,
+            "guid": "r|{8iY)MuL",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy możesz dostać emeryturę bez jakiegokolwiek okresu ubezpieczenia",
+                "nie, <b>wystarczy jeden dzień</b>"
+            ],
+            "flags": 0,
+            "guid": "QE%>uyd3t$",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy staż pracy decyduje o wysokości emerytury",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "M93$g-l2@T",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy twoja emerytura może być niższa od określonej przepisowo kwoty najniższej emerytury",
+                "tak jeśli masz za mały staż"
+            ],
+            "flags": 0,
+            "guid": "Fc4P~WBKN?",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile lat trzeba mieć okresów składkowych aby mieć gwarancję najniższej emerytury<b> będąc kobietą</b>",
+                "20 lat"
+            ],
+            "flags": 0,
+            "guid": "lxEK`hzKa/",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile lat trzeba mieć okresów składkowych aby mieć gwarancję najniższej emerytury<b> będąc męszczyzną</b>",
+                "25"
+            ],
+            "flags": 0,
+            "guid": "pNPLHkiBz%",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy Polskie społeczeństwo się starzeje",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "GanhUqJ|Ga",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "W 2015 roku na 1000 osób w wieku produkcyjnym przypadało {{c1::313}} osób w wieku poprodukcyjnym, natomiast w 2060 roku liczba ta wyniesie {{c1::740}} osób.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "en3in(Q@uX",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Udział osób w wieku <b>poprodukcyjnym </b>w całej populacji wzrośnie z {{c1::19,5%}} w 2015 roku do {{c1::35,8%}} w 2060 roku, a udział ludności w wieku <b>produkcyjnym</b> zmaleje z {{c2::62,4%}} w 2015 roku do {{c2::48,4%}} w&nbsp;2060 roku.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "r32c(W[+Tl",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy wyż demograficzny z lat 80 XX wieku będzie pracował w 2060r.",
+                "nie"
+            ],
+            "flags": 0,
+            "guid": "fnA@C}0->l",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy emerytura to obowiązek",
+                "nie, to prawo"
+            ],
+            "flags": 0,
+            "guid": "Qn*h#kQ:cG",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy możesz dostać emeryturę z urzędu",
+                "jeśli masz prawo do renty z tytułu niezdolności do pracy i osiągniesz wiek uprawniający do emerytury"
+            ],
+            "flags": 0,
+            "guid": "ki`oE$=_i]",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny we Francji",
+                "67 lat<div>(od 2023)</div>"
+            ],
+            "flags": 0,
+            "guid": "pO|/H=W%p2",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny w Niemczech",
+                "67 lat<div>(od 2031)</div>"
+            ],
+            "flags": 0,
+            "guid": "lpsZX!aN{u",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny w Australii",
+                "67 lat<div>(od 2023)</div>"
+            ],
+            "flags": 0,
+            "guid": "lD<TH5ReH|",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "wiek emerytalny w Wielkiej Brytanii",
+                "67 lat&nbsp;<span>(od 2028)</span><div>68 lat&nbsp;<span>(od 2046)</span></div>"
+            ],
+            "flags": 0,
+            "guid": "(YA:)7U#Y",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w jakim kraju w Europie jest najniższy wiek emerytalny",
+                "<div><div>w Polsce i Austrii</div></div>"
+            ],
+            "flags": 0,
+            "guid": "k+i=Udt`y>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w jakich krajach jest taki sam wiek emerytalny dla męszczyzn jak w Polsce",
+                "Austria<div>Luksemburg</div><div>Belgia</div>"
+            ],
+            "flags": 0,
+            "guid": "i<v-Ewb&PH",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w jakich krajach jest <b>mniejszy</b>&nbsp;wiek emerytalny dla męszczyzn jak w Polsce",
+                "Słowacja<div>Węgry</div><div>Litwa<br></div><div>Łotwa</div>"
+            ],
+            "flags": 0,
+            "guid": "CW[6(J?a?t",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak sprawdzić prognozowaną wysokość swojej emerytury",
+                "za pomocą kalkulatora na PUE ZUS albo na zus.pl<div><br></div><div>u doradcy emerytalnego w&nbsp;placówce ZUS<br></div>"
+            ],
+            "flags": 0,
+            "guid": "th12hcxb=3",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rozwiń skrót PUE",
+                "Platforma&nbsp;<div>Usług&nbsp;</div><div>Elektronicznych</div>"
+            ],
+            "flags": 0,
+            "guid": "KtR@,E15qv",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gdzie można założyć konto PUE ZUS",
+                "zus.pl"
+            ],
+            "flags": 0,
+            "guid": "M.4~@aE({K",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie są sposoby rejestracji w PUE ZUS na zus.pl",
+                "za pomocą formularza elektronicznego – a&nbsp;następnie potwierdzasz swoją tożsamość – w ciągu 7 dni od rejestracji w dowolnej placówce ZUS okazujesz dokument tożsamości<div><br></div><div><span>za pomocą profilu zaufanego;</span><br></div><div><br></div><div>&nbsp;za pomocą podpisu elektronicznego;</div><div><br></div><div>&nbsp;za pomocą bankowości elektronicznej w banku, który świadczy taką usługę wspólnie z ZUS</div>"
+            ],
+            "flags": 0,
+            "guid": "v#4KP#V`q.",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie dane musisz podać do kalkulatora emerytalnego",
+                "kwota planowanych przyszłych zarobków<div>jeżeli jesteś w OFE to wysokość środków na rachunku OFE</div>"
+            ],
+            "flags": 0,
+            "guid": "kzRr,IR!4x",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "cyz można obliczyć emeryturę online bez PUE ZUS",
+                "tak, na zus.pl w uproszczonym lub zaawansowanym kalkulatorze<div>używając info o stanie konta wysyłanym co roku przez ZUS</div>"
+            ],
+            "flags": 0,
+            "guid": "Ly>0D3.p)D",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "I filar to",
+                "środki zgromadzone w FUS, zapisane na Twoim koncie ubezpieczeniowym, które prowadzi dla Ciebie ZUS."
+            ],
+            "flags": 0,
+            "guid": "H%ZNClZ{f^",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "II filar to",
+                "środki z otwartego funduszu emerytalnego (OFE) i z subkonta w ZUS. Jeśli nie masz rachunku w OFE, Twój II filar to tylko subkonto w ZUS"
+            ],
+            "flags": 0,
+            "guid": "ss^Ng-,8^>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "III filar to",
+                "<div><font color=\"#ffaa00\">P</font>PE</div><div><font color=\"#ffaa00\">I</font>KE</div><div><font color=\"#ffaa00\">P</font>PK</div><div><font color=\"#ffaa00\">I</font>KZE<br></div><div><br></div><div><b style=\"\"><font color=\"#ffaa00\">Pipi</font></b><b>- </b><i>Pipi langsztum która ma trzy warkocze i na każdym 1000 dolarów</i></div><div><img src=\"paste-a78e1d2c0633116171bd134ba8915a8b1c1a077b.jpg\"><i><br></i></div>"
+            ],
+            "flags": 0,
+            "guid": "J`o6VznKx%",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "IKE rozwiń&nbsp;",
+                "Indywidualne<div>Konta</div><div>Emerytalne</div>"
+            ],
+            "flags": 0,
+            "guid": "lIvGZxo!tv",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "IKZE rozwiń&nbsp;",
+                "Indywidualne<div>Konta</div><div>Zabezpieczenia&nbsp;</div><div>Emerytalnego</div>"
+            ],
+            "flags": 0,
+            "guid": "ei(?*%/I6g",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPE rozwiń&nbsp;",
+                "Pracownicze<div>Programy</div><div>Emerytalne</div>"
+            ],
+            "flags": 0,
+            "guid": "exOSk`{CV-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPK rozwiń&nbsp;",
+                "Pracownicze<div>Plany</div><div>Kapitałowe</div>"
+            ],
+            "flags": 0,
+            "guid": "x-FD65gLF~",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "IKE i IKZE definicja",
+                "forma indywidualnego dobrowolnego oszczędzania na emeryturę w III filarze, powiązana z ulgami podatkowymi."
+            ],
+            "flags": 0,
+            "guid": "q!M@_2W6^>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy wysokość wpłat na IKE i IKZE są ograniczone",
+                "tak, w przepisach"
+            ],
+            "flags": 0,
+            "guid": "x<**)W~lmr",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPE definicja",
+                "dobrowolna forma grupowego oszczędzania na emeryturę, organizowana przez pracodawcę z udziałem pracowników"
+            ],
+            "flags": 0,
+            "guid": "mHDJy=smH2",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPE gdzie wpłacane są środki",
+                "Gromadzone środki wpłacane są na wybrane przez pracownika fundusze inwestycyjne."
+            ],
+            "flags": 0,
+            "guid": "GE/wP_?F{1",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy w PPE składka podstawowa nie jest wliczana do wynagrodzenia, które stanowi podstawę obowiązkowych składek na ubezpieczenia społeczne",
+                "tak, nie jest wliczana"
+            ],
+            "flags": 0,
+            "guid": "f#k+0k@-WN",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy uczestnik PPE może zadeklarować składkę dodatkową.",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "s^p/,9KhL^",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPK definicja&nbsp;",
+                "dobrowolne systematyczne oszczędzanie przez pracowników, aby otrzymać dodatkowe środki po osiągnieciu 60 roku życia."
+            ],
+            "flags": 0,
+            "guid": "u[%?wTY.J!",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPK co robi pracodawca",
+                "Pracodawca wybiera instytucję finansową, z którą podpisuje umowę o zarządzanie PPK."
+            ],
+            "flags": 0,
+            "guid": "IzO8+-%[8d",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PPK kto finansuje wpłaty",
+                "Wpłaty do PPK finansuje pracodawca i pracownik."
+            ],
+            "flags": 0,
+            "guid": "fLV+o}xOo;",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-1",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-1-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "Idy8_c7-dL",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-2",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-2-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "u_t>=ipu9f",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-3",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-3-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "zBO}impjJO",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-4",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-4-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ewe1{;q+S_",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-5",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-5-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "dmA#aJV]%^",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-6",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-6-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "MU3sonrS%*",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-7",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-7-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "M.]WL06((=",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-8",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-8-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-8-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "HI.tO7&(70",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5f545a2926224bbab62507643466f8a4-oa-9",
+                "",
+                "<img src=\"tmpcye6brg2.png\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-9-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-9-A.svg\" />",
+                "<img src=\"5f545a2926224bbab62507643466f8a4-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "k+^mXjP2=G",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-1",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-1-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "fD2-q#?PPB",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-2",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-2-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "ID++16:i0L",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-3",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-3-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "nYJ[}N3%_[",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-4",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-4-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "g-=aI%hGMY",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-5",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-5-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "et;Qg>Gdj@",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-6",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-6-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-6-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "c^(#=G_2Uj",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "5fac0be4b4534b3d83f6d7452596c387-oa-7",
+                "",
+                "<img src=\"tmpw5f0_719.png\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-7-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-7-A.svg\" />",
+                "<img src=\"5fac0be4b4534b3d83f6d7452596c387-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "m/h#`]`Ed;",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "JAKIE WARUNKI TRZEBA SPEŁNIĆ, ABY OTRZYMAĆ RENTĘ Z TYTUŁU NIEZDOLNOŚCI DO PRACY?",
+                "jesteś niezdolny do pracy<div><br><div>nie masz prawa do emerytury z FUS <b>lub nie spełniasz warunków, aby ją otrzymać</b></div><div><b><br></b></div><div>masz wymagany okres składkowy i nieskładkowy – liczba tych okresów zależy od wieku, w&nbsp;którym stałeś się niezdolny do pracy</div><div><br></div><div>Twoja niezdolność do pracy powstała w okresie składkowym lub nieskładkowym wymienionym w ustawie o emeryturach i rentach (m.in. w okresie ubezpieczenia, pobierania zasiłku macierzyńskiego, chorobowego czy opiekuńczego) albo nie później niż w ciągu 18 miesięcy od&nbsp;końca wymienionych okresów składkowych i nieskładkowych.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "bPu#Or.l4C",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co ustala lekarz orzecznik ZUS dodatkowo",
+                "datę, od której powstała niezdolność do pracy<div>trwałość lub przewidywany okres niezdolności do pracy</div><div>związek przyczynowy śmierci albo niezdolności do pracy z określonymi okolicznościami niezdolność do samodzielnej egzystencji</div><div>celowość przekwalifikowania zawodowego</div>"
+            ],
+            "flags": 0,
+            "guid": "jy.3}]9_nj",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy otrzymasz orzecznie o całkowitej niezdolności do pracy",
+                "jeśli utracisz zdolność do tego, by wykonywać jakąkolwiek pracę"
+            ],
+            "flags": 0,
+            "guid": "PjjK&B#^mO",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy możesz otrzmać orzeczenie o częściowej niezdolności do pracy",
+                "jeśli utracisz w znacznym stopniu zdolność do tego, by&nbsp;wykonywać pracę zgodną z Twoimi kwalifikacjami"
+            ],
+            "flags": 0,
+            "guid": "gwpxLHx|M4",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od czego zależy prawo do renty",
+                "od sumy Twoich okresów składkowych i nieskładkowych. Ich liczba zależy od wieku, w którym stałeś się niezdolny do pracy"
+            ],
+            "flags": 0,
+            "guid": "k@KBD4VE5H",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>ile lat&nbsp;</b>&nbsp;okresów składkowych musisz mieć kiedy masz<b> mniej niż 20 lat&nbsp;</b><div><b>i ubiegasz się o rentę</b></div>",
+                "1 rok"
+            ],
+            "flags": 0,
+            "guid": "p,RmBQ6s_k",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>ile lat&nbsp;</b>&nbsp;okresów składkowych musisz mieć kiedy masz <b>więcej niż</b>&nbsp;<b>&nbsp;20 i mniej niż 22 lata&nbsp;</b><div><b>i ubiegasz się o rentę</b></div>",
+                "2 lata"
+            ],
+            "flags": 0,
+            "guid": "i}h_pH>5Em",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>ile lat&nbsp;</b>&nbsp;okresów składkowych musisz mieć kiedy masz <b>więcej niż</b>&nbsp;<b>&nbsp;22 i mniej niż 25 lat</b><div><b>i ubiegasz się o rentę</b></div>",
+                "3 lata"
+            ],
+            "flags": 0,
+            "guid": "u[s$jWksYs",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>ile lat&nbsp;</b>&nbsp;okresów składkowych musisz mieć kiedy masz <b>więcej niż</b>&nbsp;<b>&nbsp;25 i mniej niż 30 lat</b><div><b>i ubiegasz się o rentę</b></div>",
+                "4 lata"
+            ],
+            "flags": 0,
+            "guid": "O(W]2Fd.m7",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<b>ile lat&nbsp;</b>&nbsp;okresów składkowych musisz mieć kiedy masz <b>ponad 30 lat</b><div><b>i ubiegasz się o rentę</b></div>",
+                "5 lat"
+            ],
+            "flags": 0,
+            "guid": "uKr*{H4~d>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "okresy składkowe to min. okresy:",
+                "pracy na podstawie umowy o pracę<div>prowadzenia działalności gospodarczej i samodzielnego opłacania składek na ubezpieczenia społeczne lub ubezpieczenia emerytalne i rentowe;</div><div>czynnej służby wojskowej w Wojsku Polskim.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "jSKm-jGiiN",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o kresy nieskładkowe to&nbsp; okresy:",
+                "<div>w czasie których nie płaci się składek na ubezpieczenia, np. okres, za który przysługiwał Ci zasiłek chorobowy czy świadczenie rehabilitacyjne, okres studiów.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Arx/<9]_-@",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Okresy nieskładkowe nie mogą być dłuższe niż {{c1::1/3}} okresów składkowych.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "q}ZSH4g..#",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Piotr ma 29 lat. Otrzymał orzeczenie o całkowitej niezdolności do pracy. Piotr był ubezpieczony z&nbsp;umowy o pracę przez 3 lata. Aby otrzymać rentę z tytułu niezdolności do pracy, musiał udowodnić 4 lata okresów składkowych i nieskładkowych.<div><br></div><div><b>czy dostanie rentę?</b></div>",
+                "tak, bo okres nieskładkowy - jego studia też się wlicza i nie przekracza 1/3"
+            ],
+            "flags": 0,
+            "guid": "Mh:crd6mgs",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy okres nieskładkowy się wlicza przy ubieganiu się o rentę",
+                "tak, <b>ale nie może przekroczyć 1/3</b>"
+            ],
+            "flags": 0,
+            "guid": "dG1:|3yg]B",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jeżeli nie możesz udowodnić wymaganego okresu składkowego i nieskładkowego to ZUS uzna że spełniłeś warunek gdy:",
+                "byłeś zgłoszony do ubezpieczenia, zanim ukończyłeś 18 lat, albo w ciągu 6 miesięcy od dnia, gdy&nbsp;<div><span>ukończyłeś naukę&nbsp;</span><br></div><div><span><br></span></div><div><div><b>lub</b></div><div><b><br></b></div><div>do dnia, od którego powstała niezdolność do pracy, miałeś – bez przerwy lub z przerwami, które nie przekraczają 6 miesięcy – okresy składkowe i nieskładkowe.<br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "gx9!g_6-{[",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy jeśli niezdolność do pracy wynika z wypadku w drodze do pracy lub z pracy, to aby otrzymać rentę, musisz udowadniać określony okres składkowy i nieskładkowy?",
+                "<div><div>nie</div></div>"
+            ],
+            "flags": 0,
+            "guid": "QeW9H5_nEB",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Anna ma 26 lat. Uległa wypadkowi w drodze do pracy. Przed wypadkiem była zatrudniona przez dwa lata na podstawie umowy o pracę. Po wypadku Anna korzystała najpierw z zasiłku chorobowego i świadczenia rehabilitacyjnego. Przez ten czas nie odzyskała zdolności do pracy, więc wystąpiła o rentę<div><br></div><div><b>czy ją dostanie?</b></div>",
+                "TAK, bo wypadek na drodze do pracy zwalnia z zasady okresów składkowych"
+            ],
+            "flags": 0,
+            "guid": "h[Z{CRAz*B",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Warunek o pięcioletnim okresie składkowym i nieskładkowym w ciągu ostatnich 10 lat (dla osób, których niezdolność do pracy powstała, gdy miały ponad 30 lat) nie dotyczy:",
+                "kobiety, która ma 25 lat składkowych i orzeczenie o całkowitej niezdolności do pracy<div>mężczyzny, który ma 30 lat składkowych i orzeczenie o całkowitej niezdolności do pracy</div>"
+            ],
+            "flags": 0,
+            "guid": "G9E$8Lo,lZ",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jest też wyjątek od warunku, że niezdolność do pracy musi powstać w określonym okresie składkowym lub nieskładkowym wymienionym w ustawie o emeryturach i rentach albo w okresie nie dłuższym niż 18 miesięcy od ustania tych okresów. Nie musi go spełnić:",
+                "kobieta, której okres składkowy i nieskładkowy wynosi co najmniej 20 lat i która ma orzeczenie o całkowitej niezdolności do pracy<div><br></div><div>mężczyzna, którego okres składkowy i nieskładkowy wynosi co najmniej 25 lat i który ma orzeczenie o całkowitej niezdolności do pracy</div>"
+            ],
+            "flags": 0,
+            "guid": "s,~VY4ah9:",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Renta szkoleniowa co to",
+                "renta którą dostajesz aby móc się przekwalifikować na inny zawód"
+            ],
+            "flags": 0,
+            "guid": "fL*`xGQ^{:",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy dostajesz rentę szkoleniową",
+                "Jeśli spełniasz warunki, aby otrzymać rentę z tytułu niezdolności do pracy, ale lekarz orzecznik albo komisja lekarska wydadzą Ci orzeczenie o celowości przekwalifikowania zawodowego"
+            ],
+            "flags": 0,
+            "guid": "AZkLjZD.*/",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile czasu przysługuje renta szkoleniowa&nbsp;",
+                "6 miesięcy"
+            ],
+            "flags": 0,
+            "guid": "yo69*&y7UJ",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy rentę szkoleniową można przedłużyć&nbsp;",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "zNmtXN,(Iu",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "do jakiego czasu można przedłużyć rentę szkoleniową",
+                "do 30 mies."
+            ],
+            "flags": 0,
+            "guid": "f3+Id:SrvU",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak dochodzi do przedłużenia lub skrócenia czasu renty szkoleniowej",
+                "na wniosek starosty"
+            ],
+            "flags": 0,
+            "guid": "J.VKn_SMJY",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy jeśli<div>masz &lt; 16 lat&nbsp;</div><div>możesz dostać rentę rodzinną</div>",
+                "tak, bezwarunkowo"
+            ],
+            "flags": 0,
+            "guid": "LfNQb]H?`j",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy jeśli masz ponad 16 lat to możesz dostać rentę rodzinną?",
+                "tak, <b>ale musisz się uczyć</b>"
+            ],
+            "flags": 0,
+            "guid": "PGM]>sdF)7",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "do jakiego wieku można dostawać rentę rodzinną",
+                "do wieku 25 lat, <b>chyba że w wieku 25 lat będziesz na ostanim roku studiów, wtedy do ukończenia ich</b>"
+            ],
+            "flags": 0,
+            "guid": "I+A7F)@AU%",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy&nbsp; dziecko (niezależnie od jego wieku), jeśli stało się całkowicie niezdolne do pracy przed ukończeniem 16 roku życia może otrzymywać rentę rodzinną",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "f_{#s?S25(",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy dziecko w czasie nauki w szkole przed ukończeniem 25 roku życia może pobierać rentę rodzinną",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "vOf4>m55=^",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "warunki aby rentę rodzinną dostał wdowiec",
+                "w chwili śmierci małżonka ma <b>skończone 50 lat</b><div><br><div>w chwili śmierci małżonka jest <b>niezdolna do&nbsp; pracy</b></div><div><br></div><div><b>wychowuje</b> co najmniej jedno z dzieci, wnuków lub rodzeństwa <b>uprawnionych do renty rodzinnej </b>po zmarłym małżonku, <b>które nie ukończyło 16 lat, a jeżeli kształci się w szkole – 18&nbsp;lat</b></div><div><br></div><div>opiekuje się dzieckiem całkowicie niezdolnym do pracy i do samodzielnej egzystencji lub całkowicie niezdolnym do pracy, uprawnionym do renty rodzinnej</div><div><br></div><div>gdy ukończy 50 lat lub <b>stanie się niezdolna (niezdolny) do pracy w ciągu 5 lat od śmierci małżonka</b> lub od kiedy przestanie wychowywać dzieci, wnuki, rodzeństwo (wymienione wyżej).</div></div>"
+            ],
+            "flags": 0,
+            "guid": "L1(pAx;.O3",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jeżeli wdowa nie spełnia wymogów do renty rodzinnej <b>i nie ma niezbędnych źródeł utrzymania</b>",
+                "ma prawo do okresowej renty rodzinnej"
+            ],
+            "flags": 0,
+            "guid": "d|(0}JpA:c",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "na jak długo przysługuje prawo do okresowej renty rodzinnej",
+                "przez jeden rok od chwili śmierci małżonka<div>w czasie kiedy się przekwalifikowuje – nie dłużej niż przez 2 lata od chwili śmierci małżonka.</div>"
+            ],
+            "flags": 0,
+            "guid": "d1D#;ciAi6",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jeśli jesteś jedyną osobą uprawnioną do renty rodzinnej, to otrzymasz {{c1::85%}} świadczenia, które przysługiwałoby zmarłemu",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ND&Fuv40t>",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dwie osoby uprawnione otrzymają {{c1::90%}} świadczenia zmarłego",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ASgYphG8VF",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "trzy osoby lub więcej – {{c1::95%.}} świadczenia zmarłego",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H6+4IqDcm(",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jak jest parę osób którym przysługuje ta sama renta rodzinna",
+                "jest ona dzielona równo między wszystkich uprawnionych"
+            ],
+            "flags": 0,
+            "guid": "b|z!aQ,j8S",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "renta rodzinna nie może być niższa niż",
+                "kwota najniższej renty rodzinnej&nbsp;<div>na zus.pl</div>"
+            ],
+            "flags": 0,
+            "guid": "nl5Ob%w6zd",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jak renta rodzinna wyjdzie niżej od namniejszej możliwej",
+                "ZUS podwyższy"
+            ],
+            "flags": 0,
+            "guid": "nQS]Ij6-Q.",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Wniosek o rehabilitację leczniczą wystawi Ci {{c1::lekarz prowadzący leczenie}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Js;70{PD60",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy lekarz może wystawić wniosek o rehabilitację leczniczą",
+                "w&nbsp;trakcie wystawiania zwolnienia elektronicznego (e-ZLA) na Platformie Usług Elektronicznych ZUS"
+            ],
+            "flags": 0,
+            "guid": "Q`,l,5?zbt",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy orzeczenie w sprawie rehabilitacji wyda lekarz orzecznik ZUS",
+                "po przeprowadzeniu badania, na które musisz zabrać dokumentację medyczną (np. karty informacyjne leczenia szpitalnego, wyniki badań RTG, USG)<div><br></div><div>na podstawie zgromadzonej dokumentacji leczenia.</div>"
+            ],
+            "flags": 0,
+            "guid": "j0T$s[i.W[",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co można zrobić jak lekarz nie da orzeczenia na rehabilitację",
+                "wnieść sprzeciw do komisji lekarskiej"
+            ],
+            "flags": 0,
+            "guid": "N*odA:`G=h",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jak orzecznik lub komisja lekarska ZUS da orzeczenie o potrebie rehabilitacji",
+                "dostajesz skierowanie od ZUS"
+            ],
+            "flags": 0,
+            "guid": "s8IB/=+c+8",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy termin i miejsce rehabilitacji można wybrać",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "b98G[)Fa|g",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi czas oczekiwania na rehabilitację",
+                "ok. 8 tygodni"
+            ],
+            "flags": 0,
+            "guid": "I0}l_=_S48",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile trwa rehabilitacja",
+                "24 dni&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "wpHEoF:9]&",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy rehabilitację można skrócić lub wydłużyć",
+                "tak, ordynator ośrodka ma takie prawo"
+            ],
+            "flags": 0,
+            "guid": "n4bw.#1<=-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Orzeczenie o potrzebie rehabilitacji leczniczej może wydać lekarz orzecznik ZUS lub komisja lekarska ZUS, gdy {{c1::będzie rozpatrywać Twój wniosek o świadczenie rehabilitacyjne}} lub {{c1::rentę z tytułu niezdolności do pracy}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iYgHx2js7B",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lekarz orzecznik ZUS może wydać orzeczenie o potrzebie rehabilitacji także podczas k{{c1::ontroli Twojego zwolnienia lekarskiego.}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "sT.yl|tp3m",
+            "note_model_uuid": "e9f35480-0e26-11ea-b6ab-902b34615815",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS pokrywa koszty leczenia na rechabilitacji",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "QjGcY=U-4q",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS pokrywa koszty zakwaterowania na rechabilitacji",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "O&Nbc+D*+j",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS pokrywa koszty wyżywienia na rechabilitacji",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "d5yD9kdH>n",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS pokrywa koszty dojazdu na rechabilitacjię i z powrotem",
+                "tak <b>najtańszym środkiem komunikacji publicznej</b>"
+            ],
+            "flags": 0,
+            "guid": "eMDguCz?50",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rodzaje rehabilitacji",
+                "stacjonarna<div>ambulatoryjna</div>"
+            ],
+            "flags": 0,
+            "guid": "MjsSj)s?XB",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rehabilitacja stacjonarna co to",
+                "rehabilitacja w ośrodku na terenie Polski<div><b>jesteś tam non-stop</b></div>"
+            ],
+            "flags": 0,
+            "guid": "Crk$U$MMwo",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "rehabilitacja ambulatoryjna co to",
+                "codzienne dojazdy na rehabilitację w wyznaczonych godzinach w miejscu w którym mieszkasz"
+            ],
+            "flags": 0,
+            "guid": "PK{/qd|j8O",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS ma własne ośrodki rehabilitacyjne",
+                "nie"
+            ],
+            "flags": 0,
+            "guid": "C:|YV#^&tz",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak ZUS pozyskuje dostęp do ośrodków rehabilitacyjnych",
+                "podpisuje umowy z istniejącymi ośrodkami, które spełniają normy:<div><br></div><div><font color=\"#5555ff\">p</font>rawne</div><div><font color=\"#5555ff\">k</font>adrowe</div><div><br></div><div><font color=\"#5555ff\">m</font>edyczne</div><div><font color=\"#5555ff\">l</font>okalowe<br></div><div><br></div><div><b><font color=\"#5555ff\">PaKa MlEka - ośrodki rehabilitacyjne są bombardowane przez paczki pełne mleka</font></b></div>"
+            ],
+            "flags": 0,
+            "guid": "k:AC:M[odR",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PRAWDA FAŁSZ<div><br></div><div>W systemie zdefiniowanej składki wysokość emerytury zależy tylko od&nbsp;wysokości ostatniego wynagrodzenia.<br></div>",
+                "FAŁSZ"
+            ],
+            "flags": 0,
+            "guid": "KFM(B[Zh.L",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PRAWDA FAŁSZ<div><br></div><div>Dłuższa praca to wyższa emerytura.<br></div>",
+                "PRAWDA"
+            ],
+            "flags": 0,
+            "guid": "uA>>R-;]@d",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PRAWDA FAŁSZ<div><br></div><div>Osoba z niepełnosprawnością nie zawsze jest niezdolna do pracy.<br></div>",
+                "PRAWDA"
+            ],
+            "flags": 0,
+            "guid": "w<<+WCMmNk",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PRAWDA FAŁSZ<div><br></div><div>Okresami składowymi nie są m.in. okresy pobierania zasiłku chorobowego i świadczenia rehabilitacyjnego.<br></div>",
+                "PRAWDA"
+            ],
+            "flags": 0,
+            "guid": "o&M!scnoc#",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "PRAWDA FAŁSZ<div><br><div>Osoba jest całkowicie niezdolna do pracy, gdy utraciła zdolność, aby&nbsp;wykonywać pracę zgodną ze swoimi kwalifikacjami.<br></div></div>",
+                "FAŁSZ"
+            ],
+            "flags": 0,
+            "guid": "iMO>*&dmpq",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
         }
     ]
 }
