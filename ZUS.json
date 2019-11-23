@@ -1861,6 +1861,34 @@
             "__type__": "Note",
             "data": "",
             "fields": [
+                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "z.&#GQJ@M`",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co obejmuje ubezpieczenie wypadkowe",
+                "wypadki przy pracy<div>choroby zawodowe</div>"
+            ],
+            "flags": 0,
+            "guid": "PiC?a40,[~",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
                 "Testowy",
                 "commit"
             ],
@@ -1878,6 +1906,18 @@
             ],
             "flags": 0,
             "guid": "IasR__GNP-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "marakuja",
+                "papaja"
+            ],
+            "flags": 0,
+            "guid": "r+k%+!:b8X",
             "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
             "tags": []
         }
