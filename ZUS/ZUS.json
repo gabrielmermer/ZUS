@@ -1,0 +1,1937 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "3b117748-0d45-11ea-9585-902b34615815",
+    "deck_config_uuid": "3b117749-0d45-11ea-ae00-902b34615815",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 0,
+            "autoplay": true,
+            "crowdanki_uuid": "3b117749-0d45-11ea-ae00-902b34615815",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 50,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 3
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-1-A.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-1-Q.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-2-A.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-2-Q.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-3-A.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-3-Q.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-4-A.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-4-Q.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-5-A.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-5-Q.svg",
+        "bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg",
+        "latest.png",
+        "tmpulh4ji_h.png"
+    ],
+    "mid": "1543418439214",
+    "name": "ZUS",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "css": "/* Profile: memo || Satus: Saved */ \n.card {\n font-family: arial;\n font-size: 60px;\n text-align: center;\n color: black;\n background-color: white;\n max-width: 300px\n margin: 0 auto;\n\n}\n\n@mobile {\n font-size: 30px;\n}\n\n\n.block {\n  margin-top:100px;\n  color:grey;\n  font-size: 10px;\n}\n\nimg {\n max-height:400px;\n}\n\n",
+            "flds": [
+                {
+                    "font": "MS Shell Dlg 2",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-4d50e",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "zus_01"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}\n\n<div class='block'>\n{{Tags}}\n</div>\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "css": "/* GENERAL CARD STYLE */\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 150%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* OCCLUSION CSS START - don't edit this */\n#io-overlay {\n  position:absolute;\n  top:0;\n  width:100%;\n  z-index:3\n}\n\n#io-original {\n  position:relative;\n  top:0;\n  width:100%;\n  z-index:2\n}\n\n#io-wrapper {\n  position:relative;\n  width: 100%;\n}\n/* OCCLUSION CSS END */\n\n/* OTHER STYLES */\n#io-header{\n  font-size: 1.1em;\n  margin-bottom: 0.2em;\n}\n\n#io-footer{\n  max-width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.8em;\n  font-style: italic;\n}\n\n\n#io-extra-wrapper{\n  /* the wrapper is needed to center the\n  left-aligned blocks below it */\n  width: 80%;\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 0.5em;\n}\n\n#io-extra{\n  text-align:center;\n  display: inline-block;\n}\n\n.io-extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.io-field-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}\n\n#io-revl-btn {\n  font-size: 0.5em;\n}\n\n/* ADJUSTMENTS FOR MOBILE DEVICES */\n\n.mobile .card, .mobile #content {\n  font-size: 120%;\n  margin: 0;\n}\n\n.mobile #io-extra-wrapper {\n  width: 95%;\n}\n\n.mobile #io-revl-btn {\n  font-size: 0.8em;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "ID (hidden)",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Header",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Image",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Question Mask",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Footer",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Extra 2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Answer Mask",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original Mask",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Image Occlusion Enhanced",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        2
+                    ]
+                ]
+            ],
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{#Image}}\n<script>\n  // Toggle answer mask on clicking the image\n  var toggle = function() {\n    var amask = document.getElementById('io-overlay');\n    if (amask.style.display === 'block' || amask.style.display === '')\n      amask.style.display = 'none';\n    else\n      amask.style.display = 'block'\n  }\n</script>\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Answer Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n{{#Footer}}<div id=\"io-footer\">{{Footer}}</div>{{/Footer}}\n<button id=\"io-revl-btn\" onclick=\"toggle();\">Toggle Masks</button>\n<div id=\"io-extra-wrapper\">\n  <div id=\"io-extra\">\n    {{#Remarks}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Remarks</div>{{Remarks}}\n      </div>\n    {{/Remarks}}\n    {{#Sources}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Sources</div>{{Sources}}\n      </div>\n    {{/Sources}}\n    {{#Extra 1}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 1</div>{{Extra 1}}\n      </div>\n    {{/Extra 1}}\n    {{#Extra 2}}\n      <div class=\"io-extra-entry\">\n        <div class=\"io-field-descr\">Extra 2</div>{{Extra 2}}\n      </div>\n    {{/Extra 2}}\n  </div>\n</div>\n{{/Image}}\n",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "IO Card",
+                    "ord": 0,
+                    "qfmt": "{{#Image}}\n<div id=\"io-header\">{{Header}}</div>\n<div id=\"io-wrapper\">\n  <div id=\"io-overlay\">{{Question Mask}}</div>\n  <div id=\"io-original\">{{Image}}</div>\n</div>\n<div id=\"io-footer\">{{Footer}}</div>\n{{/Image}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Emerytury i renty są finansowane ze środków",
+                "FUS"
+            ],
+            "flags": 0,
+            "guid": "8ZY#RRVAO",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kto ustala zasady funkcjonowania systemu ubezpieczeń społecznych?",
+                "Parlament"
+            ],
+            "flags": 0,
+            "guid": "D0I=f^u(C%",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kto otrzymuje świadczenia chorobowe wypłacane przez ZUS?",
+                "Ubezpieczeni"
+            ],
+            "flags": 0,
+            "guid": "mA(Tx0Qp%x",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubezpieczenia społeczne nie obejmują",
+                "ubezpieczenia zdrowotnego"
+            ],
+            "flags": 0,
+            "guid": "OSwe0PV=[~",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ubezpieczenia społeczne to:",
+                "ubezpieczenie emerytalne;&nbsp;<div><br><div>ubezpieczenia rentowe;</div><div><br></div><div>ubezpieczenie w razie choroby i macierzyństwa, zwane ubezpieczeniem chorobowym;&nbsp;</div><div><br></div><div>ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane ubezpieczeniem wypadkowym.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "lr5Oacv+-+",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zapewnią Ci ubezpieczenia społeczne",
+                "<font color=\"#15ff3c\">$$$</font> gdy nie będziesz mógł pracować"
+            ],
+            "flags": 0,
+            "guid": "mQazy<x$^[",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto wprowadził ubezpieczenia społeczne",
+                "Otto&nbsp;von&nbsp;Bismarck"
+            ],
+            "flags": 0,
+            "guid": "zAXV9nusPc",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym wieku powstały ubezpieczenia społeczne&nbsp;",
+                "pod koniec XIX wieku"
+            ],
+            "flags": 0,
+            "guid": "l]qt)cUptQ",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Otto&nbsp;von&nbsp;Bismarck.",
+                "kanclerz II Rzeszy"
+            ],
+            "flags": 0,
+            "guid": "MO%-oR<{dp",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile rodzajów świadczeń wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
+                "3"
+            ],
+            "flags": 0,
+            "guid": "rOC/VYCgEf",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie świadczenia wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
+                "na wypadek choroby 1883<div>od wypadków przy pracy 1884&nbsp;</div><div>w razie starości i inwalidztwa 1889</div>"
+            ],
+            "flags": 0,
+            "guid": "N[tN.PMCJb",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie na wypadek choroby",
+                "1883"
+            ],
+            "flags": 0,
+            "guid": "y7YasFurVG",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie od wypadków przy pracy",
+                "1884"
+            ],
+            "flags": 0,
+            "guid": "xeDRLXn|4n",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w którym roku&nbsp;Otto&nbsp;von&nbsp;Bismarck wprowadził ubezpieczenie w razie starości i inwalidztwa",
+                "1889"
+            ],
+            "flags": 0,
+            "guid": "jzypEb3o<c",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy została uchwalona ustawa o ubezpieczeniu społecznym",
+                "<div><span>28.03.1993</span><br></div><div><br></div><div><i>NF</i></div><div><i>Mysz</i></div><div><i>Tpa</i></div><div><i>Puma</i></div>"
+            ],
+            "flags": 0,
+            "guid": "NtvH+(KI9M",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak jest nazywana ustawa o ubezpieczeniu społecznym",
+                "ustawą scaleniową"
+            ],
+            "flags": 0,
+            "guid": "jwZF&$%:K7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "dlaczego ustawa o ubezpieczeniu społecznym jest nazywana scaleniową",
+                "bo scaliła ubezpieczenia społeczne"
+            ],
+            "flags": 0,
+            "guid": "O&Q>+HJYf7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ustawa o ubezpieczeniu społecznym objęła wszystkie rodzaje ubezpieczeń społecznych&nbsp;",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "t90jLaQw.L",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie rodzaje ubezpieczeń społecznych objęła ustawa o ubezpieczeniu społecznym",
+                "<div><font color=\"#15ff3c\">n</font>a wypadek niezdolności do zarobkowania lub śmierci osoby ubezpieczonej;&nbsp;</div><div><font color=\"#15ff3c\">e</font>merytalne robotników i pracowników umysłowych.<br></div><div><font color=\"#15ff3c\">c</font>horobowe i macierzyńskie;<br></div><div><font color=\"#15ff3c\">w</font>skutek wypadku przy pracy lub chorób zawodowych, a także „wszelkich przyczyn”;<br></div><div><br></div><div><font color=\"#15ff3c\">necw</font>iedź</div>"
+            ],
+            "flags": 0,
+            "guid": "e&FIV-#zs2",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zrobiło&nbsp;Rozporządzenie Prezydenta Rzeczypospolitej Polskiej z 24 października 1934 roku",
+                "połączyło 5 instytucji<div>w ZUS</div>"
+            ],
+            "flags": 0,
+            "guid": "G-6hc-s}Em",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gdzie jest siedziba ZUS",
+                "Warszawa"
+            ],
+            "flags": 0,
+            "guid": "j:AwsMl#18",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie instytucje zostały połączone&nbsp;Rozporządzeniem Prezydenta Rzeczypospolitej Polskiej z 24 października 1934 roku",
+                "Izbę Ubezpieczeń Społecznych;<div>Zakład Ubezpieczenia na Wypadek Choroby;</div><div>Zakład Ubezpieczenia od Wypadków;</div><div>Zakład Ubezpieczeń Pracowników Umysłowych;</div><div>Zakład Ubezpieczenia Emerytalnego Robotników</div>"
+            ],
+            "flags": 0,
+            "guid": "hT^J2CxU9/",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ZUS rozwiń skrót",
+                "Zakład<div>Ubezpieczeń</div><div>Społecznych</div>"
+            ],
+            "flags": 0,
+            "guid": "LwI)Wz5QPO",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS to jedyny system ubezpieczeń&nbsp;",
+                "NIE<div><br></div><div>są inne dla rolników, mundurowców, prokuratorów i sędziów</div>"
+            ],
+            "flags": 0,
+            "guid": "k:hl[OuIdx",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "KRUS rozwiń skrót",
+                "Kasa<div>Rolniczego</div><div>Ubezpieczenia&nbsp;</div><div>Społecznego</div>"
+            ],
+            "flags": 0,
+            "guid": "qf{5ThIyN(",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest ubezpieczonych&nbsp;",
+                "ponad 16 mln"
+            ],
+            "flags": 0,
+            "guid": "gx1Sh1Jrxc",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest świadczeniobiorców",
+                "ponad 7,5 mln"
+            ],
+            "flags": 0,
+            "guid": "MEB}Mri-{$",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ilu jest płatników składek",
+                "ponad 2,5 mln"
+            ],
+            "flags": 0,
+            "guid": "d7lTE]P`uw",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kim są ubezpieczeni",
+                "<div>min.</div>pracownicy<div>zleceniobiorcy</div>"
+            ],
+            "flags": 0,
+            "guid": "KwF;Ist>!/",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kim są świadczeniobiorcy",
+                "<div>min.</div>emeryci<div>renciści</div><div>osoby które pobierają zasiłek</div>"
+            ],
+            "flags": 0,
+            "guid": "o(eUkB!o-6",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ubezpieczony definicja",
+                "osoba objęca co najmniej jednym z ubezpieczeń społecznych"
+            ],
+            "flags": 0,
+            "guid": "zL+u_dE$CP",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy do liczby ubezpieczonych wliczamy ubezpieczonych tylko ubezpieczenim zdrowotnym",
+                "NIE"
+            ],
+            "flags": 0,
+            "guid": "Hj4/??6ZwM",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jakie są rodzaje ubezpieczeń społecznych",
+                "<div><font color=\"#ff007f\">w</font>ypadkowe<br></div><font color=\"#ff007f\">e</font>merytalne<div><div><font color=\"#ff007f\">r</font>entowe</div><div><font color=\"#ff007f\">c</font>horobowe</div></div><div><br></div><div><i><font color=\"#ff007f\">we RC</font></i></div>"
+            ],
+            "flags": 0,
+            "guid": "PszoP)haCS",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "płatnik składek definicja",
+                "<div>pracodawca – za pracowników;</div><div><br></div><div>osoba prowadząca pozarolniczą działalność – za osoby współpracujące przy prowadzeniu tej&nbsp;działalności;</div><div><br></div><div>ZUS – za osoby, którym wypłaca zasiłki macierzyńskie.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "nmbPkA(#4^",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Indywidualne konto ubezpieczonego co to",
+                "konto, na którym ZUS zapisuje wszystkie:<div><br><div>składki wpłacane za daną osobę;</div><div>informacje o tym, jakim ubezpieczeniom społecznym ta osoba podlega i podlegała.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "b}I/-u^t3_",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Najważniejsze zadania, jakie ZUS wykonuje wobec ubezpieczonych",
+                "prowadzi indywidualne konta&nbsp;ubezpieczonych;&nbsp;<div><br><div>pobiera składki na ubezpieczenia społeczne i&nbsp;zapisuje informacje o nich na indywidualnych kontach ubezpieczonych;</div><div><br></div><div>pobiera składki na ubezpieczenie zdrowotne i&nbsp;przekazuje je do NFZ</div></div>"
+            ],
+            "flags": 0,
+            "guid": "z7+K6KTYwh",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co robi NFZ",
+                "finansuje świadczenia zdrowotne i refunduje leki."
+            ],
+            "flags": 0,
+            "guid": "eU<3&L5Uj4",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "NFZ rozwiń skrót",
+                "Narodowy Fundusz Zdrowia"
+            ],
+            "flags": 0,
+            "guid": "oYt8psFIbS",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Najważniejsze zadania, jakie ZUS wykonuje wobec świadczeniobiorców:",
+                "przyznaje i wypłaca tzw. świadczenia długoterminowe, m.in. emerytury, renty;<div><br><div>przyznaje i wypłaca tzw. świadczenia krótkoterminowe, m.in. zasiłki chorobowe, macierzyńskie, opiekuńcze;</div><div><br></div><div>kieruje na&nbsp;rehabilitację leczniczą.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "yD@V|VxPc8",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co to prewencja rentowa",
+                "kierowanie na rehabilitację leczniczą i powypadkową"
+            ],
+            "flags": 0,
+            "guid": "y-6l?IO!j#",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co to prewencja wypadkowa",
+                "dofinansowania do działań płatników składek, które mają zapobiegać wypadkom przy pracy i chorobom zawodowym oraz utrzymywać zdolność od pracy&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "CS;*R:<3:R",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto może skorzystać z rehabilitacji leczniczej ZUS",
+                "osoba zagrożona utratą zdolności do pracy, <b>jeżeli istnieje szansa że odzyska ją po rehabilitacji</b><div>+ osoba musi spełnić jeden z trzech wymogów</div>"
+            ],
+            "flags": 0,
+            "guid": "uaB|e4l6X&",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "podaj 3 wymogi rehabilitacji leczniczej ZUS&nbsp;<div><span>(wystarczy spełnić jeden)</span><br></div>",
+                "być ubezpieczona (np. z umowy o pracę, prowadzonej działalności);<div><br><div><div>pobierać zasiłek chorobowy lub świadczenie rehabilitacyjne;</div><div><br></div><div>pobierać rentę okresową z tytułu niezdolności do pracy.</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "B4=LxevN{Y",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>czy ZUS w całości pokrywa koszt rehabilitacji</div>",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "d]_W|qp0P6",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Najważniejsze zadania, jakie ZUS wykonuje wobec płatników składek",
+                "<div><font color=\"#00ffff\">n</font>a wniosek dłużnika może odroczyć termin płatności składek, rozłożyć na raty dług;</div><div><font color=\"#00ffff\">d</font>ofinansowuje projekty na&nbsp;poprawę bezpieczeństwa i&nbsp;higieny pracy na&nbsp;stanowiskach pracy.<br></div><div><font color=\"#00ffff\">p</font>rowadzi konta płatników składek i prowadzi rozliczenia z&nbsp;nimi;<br></div><div><br></div><div><br></div><div><i><font color=\"#00ffff\"><b>n</b>a<b> d</b>u<b>p</b>ie - płatnicy płacą ZeUSowi kładąc mu hajs na dupie</font></i></div>"
+            ],
+            "flags": 0,
+            "guid": "T$=48/YlU",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Konto płatnika składek co to",
+                "konto założone przez ZUS dla płatnika"
+            ],
+            "flags": 0,
+            "guid": "vEHp!;p[?|",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co ZUS zapisuje na koncie płatnika składek",
+                "min.<div><br><div><font color=\"#ffff00\">k</font>wotę zobowiązań płatnika z tytułu składek</div><div><font color=\"#ffff00\">i</font>nformacje, za kogo płatnik opłaca składki.<br></div><div><font color=\"#ffff00\">s</font>tan rozliczeń<br></div><div><font color=\"#ffff00\">k</font>woty zapłaconych składek</div><div><br></div><div><i><font color=\"#ffff00\"><b>ki</b>o</font><b><font color=\"#ffff00\">sk </font>- </b>kiosk przychodzi do zeusa pytać się o swoje konto a ten rzuca w niego kołem ratunkowym</i></div></div>"
+            ],
+            "flags": 0,
+            "guid": "F>f-vU0>1[",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co robi co roku prezes ZUS na rzecz prewencji wypadkowej",
+                "ogłasza co roku konkurs, w którym płatnicy składek mogą zgłosić wniosek o dofi nansowanie projektu dotyczącego utrzymania zdolności do pracy przez cały okres aktywności zawodowej. Realizacja projektu ma poprawić bezpieczeństwo i&nbsp;higienę pracy na stanowiskach pracy."
+            ],
+            "flags": 0,
+            "guid": "bezfsWI<&4",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS to FUS",
+                "nope"
+            ],
+            "flags": 0,
+            "guid": "Ky$:U?xBzJ",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "gdzie wpływają składki na ubezpieczenia społeczne",
+                "do FUS"
+            ],
+            "flags": 0,
+            "guid": "fDY0&]:SDU",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "FUS rozwiń skrót",
+                "fundusz<div>ubezpieczeń</div><div>społecznych</div>"
+            ],
+            "flags": 0,
+            "guid": "cGj/:6A_(R",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jest finansowane ze środków FUS",
+                "świadczenia min.<div>emerytury</div><div>renty</div><div>zasiłki</div>"
+            ],
+            "flags": 0,
+            "guid": "sk(614r@_M",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto wypłaca $$$ z FUS",
+                "ZUS albo płatnicy składek"
+            ],
+            "flags": 0,
+            "guid": "kmQQ:nqQ|i",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co zarządza FUS",
+                "ZUS"
+            ],
+            "flags": 0,
+            "guid": "Jt2Pr#[=r2",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co to FUS",
+                "fundusz państwowy powołany do realizacji zadań dotyczących ubezpieczeń społecznych."
+            ],
+            "flags": 0,
+            "guid": "DNPutyEGLD",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co tworzy budżet FUS",
+                "składki na ubezpieczenia społeczne i dotacje z budżetu państwa."
+            ],
+            "flags": 0,
+            "guid": "J}hQ*^7xTy",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy FUS może zaciągać kredyty",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "NziDf*5>up",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co robi ZUS",
+                "zbiera składki<div>wypłaca świadczenia</div><div>słowem realizuje politykę państwa w zakresie ubezpieczeń społecznych</div>"
+            ],
+            "flags": 0,
+            "guid": "A8R%`K/Xv+",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto jest płatnikiem świadczeń finansowych ze środków FUS",
+                "ZUS albo płatnicy składek"
+            ],
+            "flags": 0,
+            "guid": "El(QbO5/Nc",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy płatnicy składek wypłacają świadczenia&nbsp;",
+                "jeżeli zatrudniają (ubezpieczają) <b>ponad 20 osób</b>"
+            ],
+            "flags": 0,
+            "guid": "Kcxjjd-+Y7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co wypłaca ZUS min.",
+                "<div><div><font color=\"#ff0000\">z</font>asiłki chorobowe, opiekuńcze i macierzyńskie, np. dla osób prowadzących działalność gospodarczą i pracowników, których pracodawca zgłasza do ubezpieczenia chorobowego nie więcej niż&nbsp;20 pracowników.</div></div><div><br></div><font color=\"#ff0000\">e</font>merytury;<div><font color=\"#ff0000\">r</font>enty z tytułu niezdolności do pracy;</div><div><font color=\"#ff0000\">r</font>enty rodzinne;</div><div><br></div><div><i><b><font color=\"#ff0000\">Zerr</font></b>0&nbsp;- </i>idzie po świadczenia rozcinając wszystkich swą kataną<img src=\"latest.png\"></div>"
+            ],
+            "flags": 0,
+            "guid": "hoQiEO@UFG",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "na jakiej podstawie działa ZUS",
+                "na podstawie ustawy"
+            ],
+            "flags": 0,
+            "guid": "r/|wd$R(3;",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ustawa o systemie ubezpieczeń społecznych określa m.in.:",
+                "zasady działania Funduszu Ubezpieczeń Społecznych;<div>organizację, zasady działania i fi nansowania Zakładu Ubezpieczeń Społecznych;</div><div>zasady podlegania ubezpieczeniom społecznym;</div><div>zasady ustalania składek na ubezpieczenia społeczne oraz kwot, od których trzeba je naliczać; zasady, tryb i terminy: zgłaszania do ubezpieczeń społecznych, prowadzenia ewidencji ubezpieczonych i płatników składek, rozliczania składek na ubezpieczenia społeczne oraz zasiłków z ubezpieczenia chorobowego i wypadkowego, opłacania składek na ubezpieczenia społeczne; zasady prowadzenia kont ubezpieczonych i kont płatników składek.</div><div><br></div><div>tego raczej nie trzeba pamiętać</div>"
+            ],
+            "flags": 0,
+            "guid": "BM8wbaG>7X",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS&nbsp; tworzy prawo",
+                "NIE<div>XD</div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "c$ONu{t)wK",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co określa parlament",
+                "wysokość składek<div>zasady wyliczania świadczeń</div>"
+            ],
+            "flags": 0,
+            "guid": "k3Q/q#4v4r",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS ma wpływ na wysokość składek na ubezpieczenia",
+                "nie <b>ale musi je zbierać i zapisać</b>"
+            ],
+            "flags": 0,
+            "guid": "A9BSj}a.VG",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ZUS ma decyduje o wysokości świadczeń",
+                "nie <b>ale musi je wyliczyć i wypłacić</b>"
+            ],
+            "flags": 0,
+            "guid": "i0%trp4mPH",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co określa stopy procentowe składek na ubezpieczenia społeczne",
+                "ustawa z 13 października 1998&nbsp;roku o systemie ubezpieczeń społecznych."
+            ],
+            "flags": 0,
+            "guid": "Q~c{yhHIX-",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi stopa % na ubezpieczenie emerytalne",
+                "19,52%"
+            ],
+            "flags": 0,
+            "guid": "FDDsdI?n5t",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi stopa % na ubezpieczenie rentowe",
+                "8%"
+            ],
+            "flags": 0,
+            "guid": "AubE6aupZn",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi stopa % na ubezpieczenie chorobowe",
+                "2,45%"
+            ],
+            "flags": 0,
+            "guid": "IH}PhRz7y,",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi stopa % na ubezpieczenie wypadkowe",
+                "jest zróżnicowana"
+            ],
+            "flags": 0,
+            "guid": "yIoG,r^_37",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wynosi stopa % na ubezpieczenie zdrowotne",
+                "9%"
+            ],
+            "flags": 0,
+            "guid": "w_J4Uin}!}",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto ustala stopę procentową składki na ubezpieczenie wypadkowe",
+                "Stopę procentową składki na ubezpieczenie wypadkowe ustala ZUS albo samodzielnie płatnik składek."
+            ],
+            "flags": 0,
+            "guid": "LW]hfenI+-",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "komu ZUS ustala sopę procentową składki na ubezpieczenie wypadkowe",
+                "wyłącznie płatnikom, którzy przekazali informację o danych do ustalenia składki na&nbsp;ubezpieczenie wypadkowe (ZUS IWA) za trzy kolejne, ostatnie lata kalendarzowe."
+            ],
+            "flags": 0,
+            "guid": "xq)~xr*3>Z",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co jeżeli ZUS nie może ustalić stopy procentowej składki ubezpieczenia wypadkowego",
+                "płatnik robi to samodzielnie"
+            ],
+            "flags": 0,
+            "guid": "FrCV_%2H-5",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "od czego zależy czy ZUS może ustalić stopy procenowe składek na ubezpieczenie wypadkowe",
+                "czy płatnik podlega wpisowi do rejestru REGON oraz ile osób zgłasza do ubezpieczenia wypadkowego."
+            ],
+            "flags": 0,
+            "guid": "L0.>CvZqsF",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "z czego wynikają zasady obliczania wysokości świadczeń",
+                "ustawy z 17 grudnia 1998 roku&nbsp;<div>ustawy z 25 czerwca 1999 roku&nbsp;<div>ustawy z 30 października 2002 roku</div></div>"
+            ],
+            "flags": 0,
+            "guid": "p+-7MSoS/I",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o czym jest ustawa z 17 grudnia 1998 roku&nbsp;",
+                "o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych"
+            ],
+            "flags": 0,
+            "guid": "G$3E5DU*+|",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o czym jest&nbsp;ustawa z 25 czerwca 1999",
+                "o świadczeniach pieniężnych z ubezpieczenia społecznego w&nbsp;razie choroby i macierzyństwa;"
+            ],
+            "flags": 0,
+            "guid": "DZx0`:c8K9",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o czym jest ustawa z&nbsp;30 października 2002 roku",
+                "o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych."
+            ],
+            "flags": 0,
+            "guid": "nF2|QgW(KD",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "planowane wydatki FUS na 2019",
+                "241 mld zł"
+            ],
+            "flags": 0,
+            "guid": "bXT@!$S65Z",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Planowane wydatki budżetu państwa w&nbsp;2019&nbsp;roku to",
+                "416 mld zł"
+            ],
+            "flags": 0,
+            "guid": "eV(QD)I`W7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ile wydaje % FUS na tle budżetu państwa",
+                "ok. 58%"
+            ],
+            "flags": 0,
+            "guid": "b8QeyQH<=p",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jaki był wiek emerytalny w II Rzeszy",
+                "70 lat"
+            ],
+            "flags": 0,
+            "guid": "mnb}ZGeiJY",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "&nbsp;kto powołał ZUS",
+                "Ignacy Mościcki"
+            ],
+            "flags": 0,
+            "guid": "vjbqw}-Q48",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "&nbsp;czy ZUS był kiedyś zlikwidowany",
+                "TAK<div>w 1955 za Stalina</div>"
+            ],
+            "flags": 0,
+            "guid": "r9]61Zrij$",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto reaktywował ZUS",
+                "rząd Gomułki"
+            ],
+            "flags": 0,
+            "guid": "l9pJiiJ,qR",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy utworzono FUS",
+                "1986"
+            ],
+            "flags": 0,
+            "guid": "DVTs>.|y<N",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy utworzono system informatyczny ZUS",
+                "1999"
+            ],
+            "flags": 0,
+            "guid": "I$W{6t;;wN",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "&nbsp;czy pierwsze ustawy z II Rzeszy obowiązywały w Polsce",
+                "na częsci pod zaborem niemieckim"
+            ],
+            "flags": 0,
+            "guid": "morl=-Ld%n",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy w 1918 był ZUS",
+                "nie<div>ale pod trzema zaborami trzy systemy</div>"
+            ],
+            "flags": 0,
+            "guid": "iT*;YO&/GT",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto podpisał dekret o obowiązkowym ubezpieczeniu na wypadek choroby",
+                "Józef Piłsudski"
+            ],
+            "flags": 0,
+            "guid": "flVdOZ>Wyx",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ubezpieczenie na wypadek choroby i macieżyństwa data",
+                "1920"
+            ],
+            "flags": 0,
+            "guid": "O;.wqBsX-;",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ubezpieczenie od wypadków przy pracy data",
+                "1924"
+            ],
+            "flags": 0,
+            "guid": "p:#go2.:F0",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ubezpieczenie od bezrobocia data",
+                "1924"
+            ],
+            "flags": 0,
+            "guid": "k/;X|RHad-",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "ubezpieczenie emerytalne dla pracowników umysłowych",
+                "1927"
+            ],
+            "flags": 0,
+            "guid": "r9`V]qlK0|",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kiedy został powołany ZUS przez Mościckiego",
+                "24.10.1934"
+            ],
+            "flags": 0,
+            "guid": "OD5<!O.G]$",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bf3e98cd5b394325ae2954ba3827bfa8-oa-1",
+                "",
+                "<img src=\"tmpulh4ji_h.png\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-1-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-1-A.svg\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "gRPjfuCUE1",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bf3e98cd5b394325ae2954ba3827bfa8-oa-2",
+                "",
+                "<img src=\"tmpulh4ji_h.png\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-2-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-2-A.svg\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "x+kiH941fJ",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bf3e98cd5b394325ae2954ba3827bfa8-oa-3",
+                "",
+                "<img src=\"tmpulh4ji_h.png\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-3-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-3-A.svg\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "eZWWkeV=Ix",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bf3e98cd5b394325ae2954ba3827bfa8-oa-4",
+                "",
+                "<img src=\"tmpulh4ji_h.png\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-4-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-4-A.svg\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "P$enGIlb+5",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "bf3e98cd5b394325ae2954ba3827bfa8-oa-5",
+                "",
+                "<img src=\"tmpulh4ji_h.png\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-5-Q.svg\" />",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-5-A.svg\" />",
+                "<img src=\"bf3e98cd5b394325ae2954ba3827bfa8-oa-O.svg\" />"
+            ],
+            "flags": 0,
+            "guid": "w?!ASRv8*d",
+            "note_model_uuid": "e2f143e5-0d54-11ea-b192-902b34615815",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "jak eksperci nazywają przewidywalne zdarzenie i określają jego skutki.",
+                "R Y Z Y K O"
+            ],
+            "flags": 0,
+            "guid": "wIb/zlCTl7",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Uczestnik powszechnego systemu ubezpieczeń, np. pracodawca, który płaci składki za&nbsp;pracownika<b>&nbsp;to inaczej</b>",
+                "P Ł A T N I K"
+            ],
+            "flags": 0,
+            "guid": "P74]z%D#EL",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Świadczenie, które przyznaje i wypłaca ZUS, jeśli osiągniesz określony wiek to",
+                "E M E R Y T U R A"
+            ],
+            "flags": 0,
+            "guid": "wy:ZK+:d[q",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co ZUS prowadzi je dla każdego ubezpieczonego i płatnika składek.",
+                "K O N T O"
+            ],
+            "flags": 0,
+            "guid": "FaW^}mp^U-",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co określa wysokość składek i zasady wyliczania świadczeń",
+                "P A R L A M E N T"
+            ],
+            "flags": 0,
+            "guid": "zp],5L4l&+",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Testowy",
+                "commit"
+            ],
+            "flags": 0,
+            "guid": "et(Priwg)L",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "banan",
+                "mango"
+            ],
+            "flags": 0,
+            "guid": "IasR__GNP-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "mandarynka",
+                "szaron"
+            ],
+            "flags": 0,
+            "guid": "yGNmH4zF!j",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "czy ubezpieczenie chorobowe obejmuje macieżyństwo",
+                "tak"
+            ],
+            "flags": 0,
+            "guid": "z.&#GQJ@M`",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "co obejmuje ubezpieczenie wypadkowe",
+                "wypadki przy pracy<div>choroby zawodowe</div>"
+            ],
+            "flags": 0,
+            "guid": "PiC?a40,[~",
+            "note_model_uuid": "3b123a82-0d45-11ea-9ee1-902b34615815",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "marakuja",
+                "papaja"
+            ],
+            "flags": 0,
+            "guid": "r+k%+!:b8X",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
+        }
+    ]
+}
