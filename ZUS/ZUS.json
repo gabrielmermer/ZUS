@@ -1868,6 +1868,18 @@
             "guid": "et(Priwg)L",
             "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "banan",
+                "mango"
+            ],
+            "flags": 0,
+            "guid": "IasR__GNP-",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": []
         }
     ]
 }
