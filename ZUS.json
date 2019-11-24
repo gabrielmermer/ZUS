@@ -22,7 +22,7 @@
                 "mult": 0.0
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "ZUS",
             "new": {
                 "bury": true,
                 "delays": [
@@ -48,14 +48,14 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "minSpace": 1,
-                "perDay": 3
+                "perDay": 200
             },
             "timer": 0
         }
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 10,
+    "extendNew": 50,
     "extendRev": 50,
     "media_files": [
         "5f545a2926224bbab62507643466f8a4-oa-1-A.svg",
@@ -306,7 +306,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "css": ".card {\n font-family: arial;\n font-size: 40px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
@@ -315,7 +315,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "font": "Arial",
@@ -341,7 +341,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "zus_03"
+                "fiz_ruch"
             ],
             "tmpls": [
                 {
@@ -466,7 +466,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "Ubezpieczenia społeczne to:",
+                "rodzaje ubezpieczeń społecznych:",
                 "ubezpieczenie emerytalne;&nbsp;<div><br><div>ubezpieczenia rentowe;</div><div><br></div><div>ubezpieczenie w razie choroby i macierzyństwa, zwane ubezpieczeniem chorobowym;&nbsp;</div><div><br></div><div>ubezpieczenie z tytułu wypadków przy pracy i chorób zawodowych, zwane ubezpieczeniem wypadkowym.</div></div>"
             ],
             "flags": 0,
@@ -551,7 +551,7 @@
             "data": "",
             "fields": [
                 "jakie świadczenia wprowadził&nbsp;Otto&nbsp;von&nbsp;Bismarck",
-                "na wypadek choroby 1883<div>od wypadków przy pracy 1884&nbsp;</div><div>w razie starości i inwalidztwa 1889</div>"
+                "na wypadek choroby&nbsp;<div>od wypadków przy pracy&nbsp;</div><div>w razie starości i inwalidztwa</div>"
             ],
             "flags": 0,
             "guid": "N[tN.PMCJb",
@@ -870,7 +870,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "płatnik składek definicja",
+                "płatnik składek kto",
                 "<div>pracodawca – za pracowników;</div><div><br></div><div>osoba prowadząca pozarolniczą działalność – za osoby współpracujące przy prowadzeniu tej&nbsp;działalności;</div><div><br></div><div>ZUS – za osoby, którym wypłaca zasiłki macierzyńskie.<br></div>"
             ],
             "flags": 0,
@@ -941,7 +941,7 @@
             "data": "",
             "fields": [
                 "Najważniejsze zadania, jakie ZUS wykonuje wobec świadczeniobiorców:",
-                "przyznaje i wypłaca tzw. świadczenia długoterminowe, m.in. emerytury, renty;<div><br><div>przyznaje i wypłaca tzw. świadczenia krótkoterminowe, m.in. zasiłki chorobowe, macierzyńskie, opiekuńcze;</div><div><br></div><div>kieruje na&nbsp;rehabilitację leczniczą.</div></div>"
+                "przyznaje i wypłaca tzw. świadczenia długoterminowe<div><br><div>przyznaje i wypłaca tzw. świadczenia krótkoterminowe</div><div><br></div><div>kieruje na&nbsp;rehabilitację leczniczą.</div></div>"
             ],
             "flags": 0,
             "guid": "yD@V|VxPc8",
@@ -1052,7 +1052,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "co ZUS zapisuje na koncie płatnika składek",
+                "co ZUS zapisuje na koncie <b>płatnika </b>składek",
                 "min.<div><br><div><font color=\"#ffff00\">k</font>wotę zobowiązań płatnika z tytułu składek</div><div><font color=\"#ffff00\">i</font>nformacje, za kogo płatnik opłaca składki.<br></div><div><font color=\"#ffff00\">s</font>tan rozliczeń<br></div><div><font color=\"#ffff00\">k</font>woty zapłaconych składek</div><div><br></div><div><i><font color=\"#ffff00\"><b>ki</b>o</font><b><font color=\"#ffff00\">sk </font>- </b>kiosk przychodzi do zeusa pytać się o swoje konto a ten rzuca w niego kołem ratunkowym</i></div></div>"
             ],
             "flags": 0,
@@ -1248,7 +1248,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "co wypłaca ZUS min.",
+                "rodzaje świadczeń które wypłaca ZUS",
                 "<div><div><font color=\"#ff0000\">z</font>asiłki chorobowe, opiekuńcze i macierzyńskie, np. dla osób prowadzących działalność gospodarczą i pracowników, których pracodawca zgłasza do ubezpieczenia chorobowego nie więcej niż&nbsp;20 pracowników.</div></div><div><br></div><font color=\"#ff0000\">e</font>merytury;<div><font color=\"#ff0000\">r</font>enty z tytułu niezdolności do pracy;</div><div><font color=\"#ff0000\">r</font>enty rodzinne;</div><div><br></div><div><i><b><font color=\"#ff0000\">Zerr</font></b>0&nbsp;- </i>idzie po świadczenia rozcinając wszystkich swą kataną<img src=\"latest.png\"></div>"
             ],
             "flags": 0,
@@ -1275,7 +1275,7 @@
             "data": "",
             "fields": [
                 "Ustawa o systemie ubezpieczeń społecznych określa m.in.:",
-                "zasady działania Funduszu Ubezpieczeń Społecznych;<div>organizację, zasady działania i fi nansowania Zakładu Ubezpieczeń Społecznych;</div><div>zasady podlegania ubezpieczeniom społecznym;</div><div>zasady ustalania składek na ubezpieczenia społeczne oraz kwot, od których trzeba je naliczać; zasady, tryb i terminy: zgłaszania do ubezpieczeń społecznych, prowadzenia ewidencji ubezpieczonych i płatników składek, rozliczania składek na ubezpieczenia społeczne oraz zasiłków z ubezpieczenia chorobowego i wypadkowego, opłacania składek na ubezpieczenia społeczne; zasady prowadzenia kont ubezpieczonych i kont płatników składek.</div><div><br></div><div>tego raczej nie trzeba pamiętać</div>"
+                "zasady działania FUS<div>zasady działania i finansowania ZUS</div><div>zasady podlegania ubezpieczeniom społecznym;</div><div>zasady ustalania składek na ubezpieczenia społeczne oraz kwot, od których trzeba je naliczać</div><div>zasady, tryb i terminy</div><div><br></div><div>tego raczej nie trzeba pamiętać</div>"
             ],
             "flags": 0,
             "guid": "BM8wbaG>7X",
@@ -1481,7 +1481,7 @@
             "data": "",
             "fields": [
                 "z czego wynikają zasady obliczania wysokości świadczeń",
-                "ustawy z 17 grudnia 1998 roku&nbsp;<div>ustawy z 25 czerwca 1999 roku&nbsp;<div>ustawy z 30 października 2002 roku</div></div>"
+                "ustawy z 17.12.1998&nbsp;<div>ustawy z 25.06.1999&nbsp;<div>ustawy z 30.10.2002&nbsp;</div></div>"
             ],
             "flags": 0,
             "guid": "p+-7MSoS/I",
@@ -2001,42 +2001,6 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "mandarynka",
-                "szaron"
-            ],
-            "flags": 0,
-            "guid": "yGNmH4zF!j",
-            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "marakuja",
-                "papaja"
-            ],
-            "flags": 0,
-            "guid": "r+k%+!:b8X",
-            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "jabko",
-                "gruszka"
-            ],
-            "flags": 0,
-            "guid": "Pv</Q``}8}",
-            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
-            "tags": []
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
                 "kiedy będzie ci przysługiwała emerytura z ubezpieczenia emerytalnego",
                 "gdy osiągniesz wiek emerytalne i niebędziesz już mógł / chciał pracować"
             ],
@@ -2415,7 +2379,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "na jakiej podstawie doszło do reformy modelu systemu emerytalnego",
+                "na jakiej podstawie prawnej doszło do reformy modelu systemu emerytalnego",
                 "podstawie ustaw uchwalonych w&nbsp;1998 roku."
             ],
             "flags": 0,
@@ -2514,7 +2478,7 @@
             "data": "",
             "fields": [
                 "od czego zależy wysokość emerytury",
-                "od sumy wpłaconych składek<div><br><div>długosci sredniego dalszego trwania zycia <i>ustalonej w momencie przejscia na emeryture</i><br><div><b>i</b></div><div>sytuacji na rynku pracy</div><div>efektywności inwestowania środków OFE</div></div></div>"
+                "od sumy wpłaconych składek<div><br><div>średniej długosci dalszego trwania zycia <i>ustalonej w momencie przejscia na emeryture</i><br><div><b>i</b></div><div>sytuacji na rynku pracy</div><div>efektywności inwestowania środków OFE (jak masz)</div></div></div>"
             ],
             "flags": 0,
             "guid": "w,u+(4b<Cy",
@@ -4506,6 +4470,90 @@
             ],
             "flags": 0,
             "guid": "iMO>*&dmpq",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_03"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "świadczenia długoterminowe<div><br></div>",
+                "emerytury, renty"
+            ],
+            "flags": 0,
+            "guid": "Bkgw},f6dI",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_01"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lekarze - orzecznicy ZUS orzekają o:",
+                "<div><div><div>niezdolności do pracy</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "n3nX.$)rJt",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto orzeka o niepełnospeności",
+                "<div><div><div>powiatowe i wojewódzkie zespoły ds. orzekania o niepełnosprawności.</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "lR<[ft|Xo$",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "kto orzeka o prawie do renty",
+                "ZUS wydaje taką decyzję, <b>a nie lekarz</b>"
+            ],
+            "flags": 0,
+            "guid": "KX}KH|gmF[",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Z publicznej opieki zdrowotnej może korzystać osoba, która ma:&nbsp;<div><br></div><div><div><div><div><div>A. ubezpieczenie zdrowotne</div></div></div></div><div><div><div><div></div><div></div><div><div><div></div><div></div></div></div></div><div><div>B. ubezpieczenie chorobowe</div></div></div></div><div><div><div><div><div></div><div></div><div><div><div></div><div></div></div></div></div><div><div>C. ubezpieczenie wypadkowe</div></div></div></div></div></div>",
+                "<div><div><div>ubezpieczenie zdrowotne</div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "j<2p#{ZM)s",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "który rok to granica kapitału początkowego",
+                "1999"
+            ],
+            "flags": 0,
+            "guid": "bR4N-l7w#u",
             "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
             "tags": [
                 "zus_03"
