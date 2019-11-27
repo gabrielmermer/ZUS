@@ -340,7 +340,9 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [],
+            "tags": [
+                "zus_04"
+            ],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -5458,6 +5460,622 @@
             "guid": "cCuT;lQDFI",
             "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czym jest CEIDG",
+                "Centralna Ewidencja i Informacja o Działalności Gospodarczej, czyli spis przedsiębiorców."
+            ],
+            "flags": 0,
+            "guid": "zO/A!sQ=Ue",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jaki wniosek musisz wysłać aby zarejestrować firme przez internet?",
+                "CEIDG-1"
+            ],
+            "flags": 0,
+            "guid": "IJTJ1u$}yI",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gdzie możesz zarejestrować swoją działelność gospodrczą?",
+                "W urzędzie gminy, urzędzie miasta, lub przez internet"
+            ],
+            "flags": 0,
+            "guid": "zA.SO^$YTt",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Gdzie zgłaszasz swoją firmę zgłaszając wniosek CEIDG-1(wniosek o wpis do CEIDG)?",
+                "w gminie;&nbsp;<div>w urzędzie skarbowym;&nbsp;</div><div>w Głównym Urzędzie Statystycznym;&nbsp;</div><div>w Zakładzie Ubezpieczeń Społecznych.</div>"
+            ],
+            "flags": 0,
+            "guid": "K:KqC]nm$%",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Co podstawie wniosku CEIDG-1 ZUS przygotuje?",
+                "zgłoszenie płatnika;<div>informację o rachunkach bankowych płatnika;<br></div><div>informację o adresach prowadzenia działalności<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Od>9=>$xc<",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Zgłaszając firme w Urzędach możesz zgłość również:",
+                "<div><b><font color=\"#20ffff\">Siebie</font></b> do ubezpieczeń społecznych i ubezpieczenia zdrowotnego;&nbsp;</div><div><b><font color=\"#20ffff\">Członków swojej rodziny</font></b> do ubezpieczenia zdrowotnego;&nbsp;</div><div><b><font color=\"#20ffff\">Zatrudnione osoby,</font></b> m.in. pracowników, zleceniobiorców, osoby współpracujące, do&nbsp;ubezpieczeń społecznych i ubezpieczenia zdrowotnego albo tylko do&nbsp;ubezpieczenia zdrowotnego;&nbsp;</div><div><b><font color=\"#20ffff\">Członków rodziny zatrudnionych osób</font></b> do ubezpieczenia zdrowotnego<br></div>"
+            ],
+            "flags": 0,
+            "guid": "dmd`R>#h}V",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz do ubezpieczenia zgłosić Rodzine, współpracowników i ich rodziny bezpośrednio w ZUSie?",
+                "<div><b style=\"color: rgb(32, 255, 255);\">TAK</b>, możesz to zrobić osobiście, listowo, lub elektronicznie (przez program Płatnik lub aplikację e-Płatnik)</div>"
+            ],
+            "flags": 0,
+            "guid": "jz@4xCR#N5",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie Ubezpieczenia musisz za siebie płacić przy Działalności gospodarczej?",
+                "Społeczne i Zdrowotne"
+            ],
+            "flags": 0,
+            "guid": "eEU7QNX*5d",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dlaczego ubezpieczenie chorobowe jest dobrowolne dla przedsiębiorcy?",
+                "Dla wielu przedsiębiorców choroba nie stanowi przeszkody w prowadzeniu firmy. Często mimo złego stanu zdrowia nadal zajmują się własnym biznesem, bo nie mają go komu powierzyć. Nie&nbsp;korzystają ze zwolnień lekarskich i dlatego nie chcą płacić składki na ubezpieczenie chorobowe. Jako przedsiębiorca zdecydujesz, czy będziesz płacić składkę chorobową i w razie np. choroby czy&nbsp;urodzenia dziecka – korzystać z zasiłków."
+            ],
+            "flags": 0,
+            "guid": "MHW_!rd66(",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jak przestać być ubezpieczonym zdrowotnie jako Przedsiębiorca?",
+                "Złożyć wniosek o przetanie płaciś tego ubezpieczenia;<div>Nie zapłacić raz w terminie, a automatycznie sie wyłączy;</div><div>Zamknicie działalności</div>"
+            ],
+            "flags": 0,
+            "guid": "gC@Gvav9KW",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jeżeli posiadasz działalność to ile będą wynosić składki?",
+                "60% przeciętnego wynagrodzenia"
+            ],
+            "flags": 0,
+            "guid": "G{Rz+P^TE&",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Z jakich przywilejów możesz skorzystać jako przedsiębiorca?",
+                "Ulgi na start;<div>Preferencyjnych składek;</div><div>małego ZUS;</div><div>Działalności nieewidencjonowanej</div>"
+            ],
+            "flags": 0,
+            "guid": "G2S7W+ZZ23",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy są konsekwencje płacenia niższych składek jako przedsiębiorca?",
+                "Oczywiście to ZUS, Twoje świadczenia z tych ubezpieczeń będą niższe"
+            ],
+            "flags": 0,
+            "guid": "xDPyi5>^D7",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Przez ile niemusisz płacić składek na start przy założeniu Działalności?",
+                "6 Miesięcy"
+            ],
+            "flags": 0,
+            "guid": "PQ~@l|O~8I",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie warunki musisz spełnić żeby buc zkorzystać z ulgi na star Działalności?",
+                "Podejmiesz Działalność gospodarczą poraz pierwszy, lub po 5 latach od zamknięcia/zawieszenia poprzedniej;<div>Nie wykonujesz dla byłego twojego pracodawcy tego co robiłeś wcześniej</div>"
+            ],
+            "flags": 0,
+            "guid": "f=Hlb^G]c2",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy Ulgi na start dla przedsiębiorców mają jakieś skutki?",
+                "LOL Jasne że tak to ZUS, jak niepłacisz to niemasz ŻADNYCH świadczeń"
+            ],
+            "flags": 0,
+            "guid": "BH!Y86,=mN",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy Preferencyjne składki dla przedsiębiorców mają jakieś negatywne skutki?",
+                "Śi(tak) to ZUS, Mniejsze świadczenia"
+            ],
+            "flags": 0,
+            "guid": "qjdw/%%0(J",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Przez pierwsze 24 miesiące od założenia Działalności możesz płacić:",
+                "30% wynagrodzenia minimalnego"
+            ],
+            "flags": 0,
+            "guid": "umCdX4|7%(",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie warunki musisz spełnić żeby skorzystać z Preferencyjnych składek?",
+                "W ostatnich 5 latach przed założeniem firmy nie prowadziłeś innej działalności;&nbsp;<div>Twoja firma nie będzie świadczyła Twojemu byłemu pracodawcy tego, co&nbsp;robiłeś dla niego jako pracownik w&nbsp;tym lub poprzednim roku.</div>"
+            ],
+            "flags": 0,
+            "guid": "EuIc:Rsme*",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy po skorzystaniu z Ulgi na start możesz skorzystać z Preferencyjnych składek?",
+                "TAK, po zakończeniu jednej ulgi możesz wejść w drugą"
+            ],
+            "flags": 0,
+            "guid": "p?ba9I9nX`",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz się zrzec ulgi na start?",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "n2(1uc&%_o",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz się zrzec Preferencyjnych składek?",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "CL3jK,1_dS",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz się zrzec Małego ZUSu?",
+                "TAK"
+            ],
+            "flags": 0,
+            "guid": "C![+&X}_Hz",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czym jest MAŁY ZUS?",
+                "Ulgą w płaceniu ZUSu, nie zabawką dla dzieci czy zestawem klocków LEGO"
+            ],
+            "flags": 0,
+            "guid": "xB2KJR0#E>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Przez jaki okres możesz płacić Mały ZUS?",
+                "36 miesięcy na każde 60 miesięcy Działalności"
+            ],
+            "flags": 0,
+            "guid": "q4DTwG;r>9",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie są warunki skorzystania z Małego ZUSu?",
+                "Twoje przychody z działalności za ubiegły rok nie mogą przekroczyć 30-krotności minimalnego wynagrodzenia;&nbsp;<div>W poprzednim roku kalendarzowym prowadziłeś działalność gospodarczą przez co najmniej 60 dni;&nbsp;<div>Nie wykonujesz dla byłego pracodawcy tego, co robiłeś dla niego jako pracownik w tym lub poprzednim roku.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "sRn?B(94P.",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy płacenie Małego ZUSu ma negatywne skutki?",
+                "Tak jak wszystko w ZUSie, proporcjonalnie niższe świadczenia"
+            ],
+            "flags": 0,
+            "guid": "rs!-1K`fF]",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czym jest&nbsp;Działalność nieewidencjonowana",
+                "Działalność nie zarejestrowana w CEIDG<div>np. stragan na bazarku</div>"
+            ],
+            "flags": 0,
+            "guid": "fS<y$-Kq/p",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czym prowadząc Działalność nieewidencjonowana musisz płaciś składki?",
+                "Nie, ale niemasz taż rzadnych świadczeń, ani ten okres nieliczy ci się do emerytury"
+            ],
+            "flags": 0,
+            "guid": "HeT@Q(Ztq/",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz płacić wyższe składki na ZUS prowadząc Działalność?",
+                "TAK, a ZUS się bardzo ucieszy, dostaniesz też wyższe świadczenia"
+            ],
+            "flags": 0,
+            "guid": "t^~,XYEc!?",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy jest limit Jaką składke możesz zapłacić?",
+                "Tak 250% prognozowanej pensji"
+            ],
+            "flags": 0,
+            "guid": "e]jBu0W{KK",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ile masz czasu na zarejestrowanie osoby zatrudnionej w twojej Działalności do ZUSu?",
+                "7 Dni od podpisania z nią umowy"
+            ],
+            "flags": 0,
+            "guid": "wST:Udlr}W",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy podczas rejestrowania Działalności możesz odrazu zarejestrować pracowników?",
+                "Tak na dodatkowym formulażu do wniosku CEIDG-1"
+            ],
+            "flags": 0,
+            "guid": "h||ozBOm.9",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy zatrudnione przez Ciebie osoby&nbsp; mogą zgłosić do ubezpieczenia zdrowotnego nieobiętych nim członków rodziny?",
+                "Tak, zgłaszają ich do Ciebie, a ty do ZUSu na druk ZUS ZCNA"
+            ],
+            "flags": 0,
+            "guid": "oY<9`3$)!0",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy przy rozwiązaniu umowy między tobą a twoim pracownikiem musisz go wyrejestrować z ZUSu?",
+                "Tak, zkładając druk ZUS ZWUA i masz na to 7 dni od rozwiązania umowy.<div>Będziesz też musiał wyrejestrować członków rodziny pracownika albo zleceniobiorcy z ubezpieczenia zdrowotnego (na&nbsp;druku ZUS ZCNA).<br></div>"
+            ],
+            "flags": 0,
+            "guid": "c~FZBwt[M>",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Kiedy musisz płacić składki?",
+                "<div>10 dnia następnego miesiąca –&nbsp;jeśli opłacasz składki wyłącznie za siebie;&nbsp;</div><div>15 dnia następnego miesiąca –&nbsp;jeśli opłacasz składki za siebie oraz za osobę współpracującą lub za innych zatrudnionych.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "BkBtWN7,dH",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie są konsekwęcje nieopłacenia ZUSu?",
+                "<div>ZUS nie zapisze składek na ubezpieczenia społeczne na Twoim koncie;&nbsp;</div><div>Będziesz musiał opłacić odsetki za zwłokę;&nbsp;</div><div>ZUS rozpocznie postępowanie egzekucyjne, co wiąże się z dodatkowymi kosztami;&nbsp;</div><div>Stracisz dobrowolne ubezpieczenie chorobowe, czyli nie będziesz mieć prawa do zasiłku chorobowego, macierzyńskiego, opiekuńczego ani świadczenia rehabilitacyjnego, i będziesz musiał złożyć korektę dokumentów rozliczeniowych.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "lOXDs:9T->",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy możesz odroczyć termin płacenia składek?",
+                "Tak, możesz złożyć wniosek o odroczenie"
+            ],
+            "flags": 0,
+            "guid": "m2!xb@sLsV",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jakie są korzyści złożenia wniosku o rozłożenie długu na raty?",
+                "Będziesz spłacał zadłużenie w dłuższym okresie i na uzgodnionych z ZUS warunkach;&nbsp;<div>ZUS nie naliczy odsetek, tylko opłatę prolongacyjną (wynosi ona 50% stawki odsetek za&nbsp;zwłokę obowiązującej w dniu podpisania umowy);&nbsp;<div>Postępowanie egzekucyjne zostanie zawieszone.</div></div>"
+            ],
+            "flags": 0,
+            "guid": "vn:Ci{dXvp",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Czy zatrudniając więcej niż 5 osób możesz rozliczać się z ZUSem stacjonarnie?",
+                "NIE, tylko w formie elektronicznej, przez program \"Płatnik\", albo \"ePłatnik\""
+            ],
+            "flags": 0,
+            "guid": "j.);UN5j^|",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jeśli będziesz opłacać składki na ubezpieczenia wyłącznie za siebie, to będziesz przekazywać do&nbsp;ZUS?",
+                "jedynie deklarację rozliczeniową (ZUS DRA)."
+            ],
+            "flags": 0,
+            "guid": "D%@wRv^vZ2",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jeśli będziesz zatrudniać pracowników, zleceniobiorców, osoby współpracujące, to będziesz przekazywać do ZUS:",
+                "deklarację rozliczeniową (ZUS DRA) – w której będą wszystkie składki za dany miesiąc;&nbsp;<div>raporty imienne:&nbsp;</div><div>• ZUS RCA – o należnych składkach i wypłaconych świadczeniach;&nbsp;</div><div>• ZUS RZA – o należnych składkach na ubezpieczenie zdrowotne;&nbsp;</div><div>• ZUS RPA – o przychodach ubezpieczonego/ okresach pracy nauczycielskiej;&nbsp;</div><div>• ZUS RSA – o wypłaconych świadczeniach i przerwach w opłacaniu składek.</div>"
+            ],
+            "flags": 0,
+            "guid": "I|QTh]r[67",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Jeśli skorzystasz z małego ZUS, będziesz musiał podać ZUS następujące informacje:",
+                "Przychód z działalności gospodarczej za poprzedni rok kalendarzowy;&nbsp;<div>Najniższą podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe na dany rok, którą sam ustalisz<br></div>"
+            ],
+            "flags": 0,
+            "guid": "wdYN~!#a4G",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "W jakim formularzu będziesz mógł podać wszystkie informacje dotyczące opłacania składek w Działalności gospodarczej?",
+                "<div>ZUS RCA cz. II – jeśli rozliczasz składki za siebie i za inne osoby ubezpieczone,&nbsp;</div><div>ZUS DRA cz. II – jeśli rozliczasz składki tylko za siebie<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Fsr-Wb)SN_",
+            "note_model_uuid": "9cee7fc8-0e05-11ea-8468-8c8590aa8579",
+            "tags": [
+                "zus_04"
+            ]
         }
     ]
 }
